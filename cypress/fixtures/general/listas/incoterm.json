@@ -1,0 +1,61 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "CFR",
+      "descripcion": "COST AND FREIGHT",
+      "tooltip": "COST AND FREIGHT"
+    },
+    {
+      "valor": "CIF",
+      "descripcion": "COST, INSURANCE, FREIGHT",
+      "tooltip": "COST, INSURANCE, FREIGHT"
+    },
+    {
+      "valor": "CIP",
+      "descripcion": "CARRIAGE AND INSURANCE PAID TO",
+      "tooltip": "CARRIAGE AND INSURANCE PAID TO"
+    },
+    {
+      "valor": "CPT",
+      "descripcion": "CARRIAGE PAID TO",
+      "tooltip": "CARRIAGE PAID TO"
+    },
+    {
+      "valor": "DAP",
+      "descripcion": "DELIVERED AT PLACE",
+      "tooltip": "DELIVERED AT PLACE"
+    },
+    {
+      "valor": "DAT",
+      "descripcion": "DELIVERED AT TERMINAL",
+      "tooltip": "DELIVERED AT TERMINAL"
+    },
+    {
+      "valor": "DDP",
+      "descripcion": "DELIVERED DUTY PAID",
+      "tooltip": "DELIVERED DUTY PAID"
+    },
+    {
+      "valor": "EXW",
+      "descripcion": "EX WORKS",
+      "tooltip": "EX WORKS"
+    },
+    {
+      "valor": "FAS",
+      "descripcion": "FREE ALONGSIDE SHIP",
+      "tooltip": "FREE ALONGSIDE SHIP"
+    },
+    {
+      "valor": "FCA",
+      "descripcion": "FREE CARRIER",
+      "tooltip": "FREE CARRIER"
+    },
+    {
+      "valor": "FOB",
+      "descripcion": "FREE ON BOARD",
+      "tooltip": "FREE ON BOARD"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "id": 2,
+      "nombreSubTipo": "INFORME BASICO ESPAÑOL"
+    },
+    {
+      "id": 3,
+      "nombreSubTipo": "INFORME FINAL INGLES ESPAÑOL"
+    },
+    {
+      "id": 4,
+      "nombreSubTipo": "INFORME PRELIMINAR O INFORME COMPLEMENTARIO"
+    },
+    {
+      "id": 11,
+      "nombreSubTipo": "INFORME BASICO INGLES"
+    },
+    {
+      "id": 12,
+      "nombreSubTipo": "INFORME FINAL INGLES"
+    }
+  ]
+}

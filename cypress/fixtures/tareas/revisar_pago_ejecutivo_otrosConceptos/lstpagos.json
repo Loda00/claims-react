@@ -1,0 +1,44 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito.",
+  "data": {
+    "otrosConceptos": [
+      {
+        "id": 66,
+        "idOtrosConceptos": 169,
+        "idProveedor": 9217501,
+        "nomProveedor": "MXSHX YKAYSVK ETKAZW",
+        "idRamo": 1315,
+        "codRamo": "TRAN",
+        "codConcepto": "000",
+        "dscConcepto": "RESERVAS TECNICAS",
+        "codTipoDocumento": "01",
+        "dscTipoDocumento": "FACTURA",
+        "numSerie": "1231",
+        "numDocumento": "123",
+        "codMoneda": "USD",
+        "fecEmision": "2019-08-28T00:00:00.000Z",
+        "mtoImporte": "10000.00",
+        "codTipoCobro": "1",
+        "dscTipoCobro": "VIA PLANILLA",
+        "mtoCoaseguro": "0.00",
+        "mtoIgv": "0.00",
+        "mtoRetencionCuarta": "0.00",
+        "mtoTotal": "10000.00",
+        "mtoTasaCambioRegistro": "1.0000000",
+        "idEstado": 8,
+        "codEstado": "OB",
+        "dscEstado": "OBSERVADO",
+        "usuarioModificacion": "BIZAGI",
+        "usuarioCreacion": "faalfaro@synopsis.ws",
+        "indCreoAjustador": null,
+        "indModificoAjustador": null,
+        "indCreaEnModificacion": null,
+        "codProceso": 21550,
+        "numObligacion": null,
+        "tipoPago": "O"
+      }
+    ],
+    "clave": "pagoOtrosConceptos"
+  }
+}

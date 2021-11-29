@@ -1,0 +1,56 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "000",
+      "descripcion": "RESERVAS TECNICAS",
+      "tooltip": "RESERVAS TECNICAS"
+    },
+    {
+      "valor": "001",
+      "descripcion": "AJUSTADOR",
+      "tooltip": "AJUSTADOR"
+    },
+    {
+      "valor": "003",
+      "descripcion": "PERITO",
+      "tooltip": "PERITO"
+    },
+    {
+      "valor": "007",
+      "descripcion": "AUDITOR MEDICO",
+      "tooltip": "AUDITOR MEDICO"
+    },
+    {
+      "valor": "008",
+      "descripcion": "PREVENTOR",
+      "tooltip": "PREVENTOR"
+    },
+    {
+      "valor": "009",
+      "descripcion": "OTROS PROVEEDORES",
+      "tooltip": "OTROS PROVEEDORES"
+    },
+    {
+      "valor": "015",
+      "descripcion": "RECUPERADORES",
+      "tooltip": "RECUPERADORES"
+    },
+    {
+      "valor": "016",
+      "descripcion": "INTERMEDIARIOS COMERCIALES",
+      "tooltip": "INTERMEDIARIOS COMERCIALES"
+    },
+    {
+      "valor": "017",
+      "descripcion": "CLINICAS",
+      "tooltip": "CLINICAS"
+    },
+    {
+      "valor": "019",
+      "descripcion": "NOTARIA",
+      "tooltip": "NOTARIA"
+    }
+  ]
+}

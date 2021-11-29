@@ -1,0 +1,29 @@
+.flexButton {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.item-title {
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: bold;
+}
+
+.item-value {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.content-item {
+  display: flex;
+  align-items: center;
+  width: 213px;
+  height: 32px;
+  margin: 12px 0px;
+}
+
+.without-margin {
+  margin-bottom: 0px !important;
+}

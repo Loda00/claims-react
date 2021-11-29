@@ -1,0 +1,21 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "IMP",
+      "descripcion": "Importación",
+      "tooltip": "Importación"
+    },
+    {
+      "valor": "EXP",
+      "descripcion": "Exportación",
+      "tooltip": "Exportación"
+    },
+    {
+      "valor": "NAC",
+      "descripcion": "Nacional",
+      "tooltip": "Nacional"
+    }
+  ]
+}

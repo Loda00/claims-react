@@ -1,0 +1,46 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": [
+    {
+      "apeMaterno": "BAZAN",
+      "apePaterno": "ROJAS",
+      "secTipo": 7,
+      "codTipo": "AJUST",
+      "email": "klrojas@synopsis.ws",
+      "idCore": null,
+      "idProceso": null,
+      "nombres": "KIMBERLY",
+      "perfil": "EX",
+      "tipo": "AJUSTADOR",
+      "cargo": null,
+      "idCargoBpm": null,
+      "emailPadre": "faalfaro@synopsis.ws",
+      "roles": [
+        {
+          "secTipo": 7,
+          "codTipo": "AJUST",
+          "tipo": "AJUSTADOR"
+        }
+      ],
+      "opciones": [
+        {
+          "id": 3,
+          "etiqueta": "Tareas",
+          "numOrden": 2,
+          "url": "/tareas",
+          "iconName": "inbox",
+          "subOpciones": []
+        },
+        {
+          "id": 4,
+          "etiqueta": "Consulta siniestros",
+          "numOrden": 1,
+          "url": "/",
+          "iconName": "audit",
+          "subOpciones": []
+        }
+      ]
+    }
+  ]
+}

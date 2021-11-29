@@ -1,0 +1,101 @@
+{
+  "code": "CRG-000",
+  "message": "la operación se ejecutó con éxito",
+  "data": [
+    {
+      "nombreContratante": "YKYX GKO",
+      "idContratante": 106225,
+      "secPoliza": 1195,
+      "idePoliza": 122890,
+      "idPoliza": 1195,
+      "numPoliza": "500008",
+      "canal": "CORREDORES",
+      "indCoaseguro": "N",
+      "indFacultativo": "N",
+      "indCuentaEstado": "N",
+      "indNotifReaCoa": "S",
+      "indNotifCorredor": "S",
+      "corredor": {
+        "codCorredor": 202,
+        "nombreCorredor": "UXAWR DZAB WX",
+        "ejecutivoCorredor": "",
+        "email": "jlventurasw@gmail.com"
+      },
+      "coaseguros": [],
+      "reaseguros": [
+        {
+          "idReasegurador": 1500,
+          "codRamo": "TRAN",
+          "reasegurador": "FTKPZW ZDD",
+          "corredorReaseguro": "",
+          "participacion": "7.00",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1501,
+          "codRamo": "TRAN",
+          "reasegurador": "QBZAIIZUPZAFSWYRZ NZAWSYRZABVFW XF.",
+          "corredorReaseguro": "",
+          "participacion": "1.75",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1502,
+          "codRamo": "TRAN",
+          "reasegurador": "TTKOH'W",
+          "corredorReaseguro": "",
+          "participacion": "3.50",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1503,
+          "codRamo": "TRAN",
+          "reasegurador": "DXAIVZA AZSVWBAXVYZ ZBAKDZ TSUSIZH",
+          "corredorReaseguro": "",
+          "participacion": "7.00",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1504,
+          "codRamo": "TRAN",
+          "reasegurador": "WQSWW AZSVWBAXVYZ YKUDXVO BG TIH.",
+          "corredorReaseguro": "",
+          "participacion": "7.00",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1505,
+          "codRamo": "TRAN",
+          "reasegurador": "MBASYR WDZYSXTISZW TKVHKV TIH.",
+          "corredorReaseguro": "",
+          "participacion": "4.37",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1506,
+          "codRamo": "TRAN",
+          "reasegurador": "IAOF-PXTISYX SVWBAXVYZ, SVIZAVXIT SVW YK",
+          "corredorReaseguro": "",
+          "participacion": "1.75",
+          "email": "a@gmail.com",
+          "estado": "S"
+        },
+        {
+          "idReasegurador": 1507,
+          "codRamo": "TRAN",
+          "reasegurador": "WYKA WQSIMZATXVH XF.",
+          "corredorReaseguro": "",
+          "participacion": "2.63",
+          "email": "a@gmail.com",
+          "estado": "S"
+        }
+      ]
+    }
+  ]
+}

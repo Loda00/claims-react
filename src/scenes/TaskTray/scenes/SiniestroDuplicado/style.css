@@ -1,0 +1,17 @@
+.show-name-core {
+  color: #1f79ae;
+  font-weight: bold;
+  height: 50px;
+}
+
+.show-info-core {
+  padding-left: 10px;
+}
+
+.duplicado-ajustador {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.duplicado-rg-existente {
+  color: #1f79ae;
+}

@@ -1,0 +1,146 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "0001",
+      "descripcion": "ACCIDENTES MEDICOS",
+      "tooltip": "ACCIDENTES MEDICOS"
+    },
+    {
+      "valor": "0005",
+      "descripcion": "ATESTADO POLICIAL",
+      "tooltip": "ATESTADO POLICIAL"
+    },
+    {
+      "valor": "0006",
+      "descripcion": "CLAUSULA DE GARANTIA",
+      "tooltip": "CLAUSULA DE GARANTIA"
+    },
+    {
+      "valor": "0009",
+      "descripcion": "CUBIERTO POR EL DEDUCIBLE",
+      "tooltip": "CUBIERTO POR EL DEDUCIBLE"
+    },
+    {
+      "valor": "0010",
+      "descripcion": "DECLARACION EXTEMPORANEA",
+      "tooltip": "DECLARACION EXTEMPORANEA"
+    },
+    {
+      "valor": "0011",
+      "descripcion": "DECLARACION FRAUDULENTA",
+      "tooltip": "DECLARACION FRAUDULENTA"
+    },
+    {
+      "valor": "0016",
+      "descripcion": "ENFERMEDAD A CONSECUENCIA DE TRATAMIENTOS MEDICOS",
+      "tooltip": "ENFERMEDAD A CONSECUENCIA DE TRATAMIENTOS MEDICOS"
+    },
+    {
+      "valor": "0018",
+      "descripcion": "FALLAS MECANICAS",
+      "tooltip": "FALLAS MECANICAS"
+    },
+    {
+      "valor": "0019",
+      "descripcion": "FALTA DE ALARMA",
+      "tooltip": "FALTA DE ALARMA"
+    },
+    {
+      "valor": "0021",
+      "descripcion": "FALTA DE PAGO",
+      "tooltip": "FALTA DE PAGO"
+    },
+    {
+      "valor": "0024",
+      "descripcion": "FUERA DE VIGENCIA",
+      "tooltip": "FUERA DE VIGENCIA"
+    },
+    {
+      "valor": "0029",
+      "descripcion": "INTOXICACION NO ACCIDENTAL",
+      "tooltip": "INTOXICACION NO ACCIDENTAL"
+    },
+    {
+      "valor": "0034",
+      "descripcion": "RADIACIONES IONIZANTES O RADIOACTIVIDAD",
+      "tooltip": "RADIACIONES IONIZANTES O RADIOACTIVIDAD"
+    },
+    {
+      "valor": "0035",
+      "descripcion": "RIESGO NO CONTRATADO",
+      "tooltip": "RIESGO NO CONTRATADO"
+    },
+    {
+      "valor": "0039",
+      "descripcion": "TERRORISMO",
+      "tooltip": "TERRORISMO"
+    },
+    {
+      "valor": "0040",
+      "descripcion": "TRANSACCION CON TERCERO",
+      "tooltip": "TRANSACCION CON TERCERO"
+    },
+    {
+      "valor": "0041",
+      "descripcion": "FALTA DE DENUNCIA POLICIAL",
+      "tooltip": "FALTA DE DENUNCIA POLICIAL"
+    },
+    {
+      "valor": "0042",
+      "descripcion": "DETERIORO Y/O DESGASTE NORMAL",
+      "tooltip": "DETERIORO Y/O DESGASTE NORMAL"
+    },
+    {
+      "valor": "0043",
+      "descripcion": "GOLPES, ROTURAS, RALLADURAS",
+      "tooltip": "GOLPES, ROTURAS, RALLADURAS"
+    },
+    {
+      "valor": "0046",
+      "descripcion": "SOFTWARE DE CUALQUIER TIPO",
+      "tooltip": "SOFTWARE DE CUALQUIER TIPO"
+    },
+    {
+      "valor": "0047",
+      "descripcion": "FALLAS EN UNIDADES TRANSFORMADORAS O GENERADORAS, COLOCADAS EN FORMA EXTERNA AL BIEN/PRODUCTO",
+      "tooltip": "FALLAS EN UNIDADES TRANSFORMADORAS O GENERADORAS, COLOCADAS EN FORMA EXTERNA AL BIEN/PRODUCTO"
+    },
+    {
+      "valor": "0048",
+      "descripcion": "MANTENIMIENTO NORMAL, LIMPIEZA,LUBRICACIÓN, AJUSTE O ALINEAMIENTO O REGULACIÓN",
+      "tooltip": "MANTENIMIENTO NORMAL, LIMPIEZA,LUBRICACIÓN, AJUSTE O ALINEAMIENTO O REGULACIÓN"
+    },
+    {
+      "valor": "0049",
+      "descripcion": "PROBLEMAS DE TRANSMISIÓN O RECEPCIÓN, ORIGINADOS A CAUSA O COMO RESULTADO DE FACTORES EXTERNOS.",
+      "tooltip": "PROBLEMAS DE TRANSMISIÓN O RECEPCIÓN, ORIGINADOS A CAUSA O COMO RESULTADO DE FACTORES EXTERNOS."
+    },
+    {
+      "valor": "0053",
+      "descripcion": "SOBRETENSIONES, DESCARGAS, DISTORSIONES O INTERRUPCIONES DEL CIRCUITO ALIMENTAC. ELÉCTRICA O RAYOS",
+      "tooltip": "SOBRETENSIONES, DESCARGAS, DISTORSIONES O INTERRUPCIONES DEL CIRCUITO ALIMENTAC. ELÉCTRICA O RAYOS"
+    },
+    {
+      "valor": "0054",
+      "descripcion": "ACCIDENTES, CAÍDAS O IMPACTOS, INSECTOS, ANIMALES, EXPOSICIÓN A COND. AMBIENTALES NO APROPIADAS",
+      "tooltip": "ACCIDENTES, CAÍDAS O IMPACTOS, INSECTOS, ANIMALES, EXPOSICIÓN A COND. AMBIENTALES NO APROPIADAS"
+    },
+    {
+      "valor": "0055",
+      "descripcion": "ROBO, CORROSIÓN, INUNDACIÓN, SISMOS Y DESASTRES NATURALES",
+      "tooltip": "ROBO, CORROSIÓN, INUNDACIÓN, SISMOS Y DESASTRES NATURALES"
+    },
+    {
+      "valor": "0056",
+      "descripcion": "GUERRA, INVASIÓN, GUERRA CIVIL, VANDALISMO, HUELGAS, SECUESTRO, CONFISCACIÓN.",
+      "tooltip": "GUERRA, INVASIÓN, GUERRA CIVIL, VANDALISMO, HUELGAS, SECUESTRO, CONFISCACIÓN."
+    },
+    {
+      "valor": "0061",
+      "descripcion": "EXCLUSIÓN CONTENIDA EN LA GARANTÍA ORIGINAL DEL FA",
+      "tooltip": "EXCLUSIÓN CONTENIDA EN LA GARANTÍA ORIGINAL DEL FA"
+    }
+  ]
+}

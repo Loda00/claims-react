@@ -1,0 +1,206 @@
+{
+  "data": {
+    "siniestro": {
+      "numSiniestro": "RG19004051",
+      "fechaCreacion": "2019-09-13T16:23:00.000Z",
+      "fechaOcurrencia": "2002-01-01T00:00:00.000Z",
+      "horaHocurrencia": "00:00:00",
+      "fechaNotificacion": "2002-01-01T00:00:00.000Z",
+      "horaNotificacion": "00:00:00",
+      "descripcionOcurrencia": "2",
+      "referenciaExterna": "",
+      "indTercerAfectado": "N",
+      "indEmpleadoInvolucarado": "",
+      "indDemandaEnCurso": "",
+      "indDaniosBienesMateriales": "",
+      "fueraDomicilio": "",
+      "indRoboEquipo": "",
+      "idDeclaracion": 0,
+      "idAjustador": "ajd004",
+      "nombreAjustador": "CHARLES & TAYLOR",
+      "tipo": "N",
+      "codReclamo": null,
+      "indPrevencionFraude": null,
+      "indCargaMasiva": null,
+      "bienesAfectados": [],
+      "inspeccion": [
+        {
+          "secInspeccion": 967,
+          "medioTransporte": "01",
+          "fechaInspeccion": null,
+          "fechallegada": null,
+          "fechaEmbarque": null,
+          "lugarEmbarque": "",
+          "lugarDescargo": "",
+          "naveOriginal": "",
+          "indTransbordo": "",
+          "codigoNaturalezaEmbarque": "",
+          "contenido": "",
+          "empresaTransporte": "",
+          "nombreConductor": "",
+          "placa": "",
+          "transporteTransbordo": [],
+          "listaIcoterms": []
+        }
+      ],
+      "ubicacion": {
+        "secUbicacion": 1536,
+        "continente": "1",
+        "pais": "428",
+        "codDepartamento": "015",
+        "dscDepartamento": "LIMA",
+        "codProvincia": "001",
+        "dscProvincia": "LIMA",
+        "codDistrito": "040",
+        "dscDistrito": "SANTIAGO DE SURCO",
+        "direccion": "xx",
+        "idDireccionRiesgo": "0"
+      },
+      "ramos": [
+        {
+          "secRamo": 1802,
+          "codigo": "TRAN",
+          "tipoEvento": "",
+          "indFacultativo": "",
+          "bienAfectado": "",
+          "perdida": {
+            "secPerdida": 1161,
+            "tipoPerdida": "",
+            "detallePerdida": ""
+          },
+          "transporte": {
+            "secTransporte": "",
+            "empresaTransporte": "",
+            "nombreConductor": "",
+            "placa": "",
+            "medioTransporte": ""
+          },
+          "coberturas": [
+            {
+              "secCobertura": 2494,
+              "idCobertura": 2722334,
+              "codCobertura": "TR10",
+              "dscCobertura": "CLÁUSULA \"A\" DEL INSTITUTO",
+              "tipo": "C",
+              "montoReserva": "5624.56",
+              "moneda": "USD",
+              "concepto": null,
+              "codigoBien": null,
+              "claseBien": null,
+              "causa": {
+                "secCausa": 2119,
+                "codCausa": "021",
+                "dscCausa": "VOLCADURA"
+              },
+              "consecuencia": {
+                "secConsecuencia": 2255,
+                "codConsecuencia": "001",
+                "dscConsecuencia": "PERDIDA PARCIAL"
+              }
+            }
+          ]
+        },
+        {
+          "secRamo": 1803,
+          "codigo": "",
+          "tipoEvento": "",
+          "indFacultativo": "",
+          "bienAfectado": "",
+          "perdida": {
+            "secPerdida": 1162,
+            "tipoPerdida": "",
+            "detallePerdida": ""
+          },
+          "transporte": {
+            "secTransporte": "",
+            "empresaTransporte": "",
+            "nombreConductor": "",
+            "placa": "",
+            "medioTransporte": ""
+          },
+          "coberturas": [
+            {
+              "secCobertura": 2495,
+              "idCobertura": 0,
+              "codCobertura": "",
+              "dscCobertura": "",
+              "tipo": "",
+              "montoReserva": "150.00",
+              "moneda": "USD",
+              "concepto": null,
+              "codigoBien": null,
+              "claseBien": null,
+              "causa": {
+                "secCausa": 2120,
+                "codCausa": "",
+                "dscCausa": null
+              },
+              "consecuencia": {
+                "secConsecuencia": 2256,
+                "codConsecuencia": "",
+                "dscConsecuencia": null
+              }
+            }
+          ]
+        }
+      ],
+      "estado": {
+        "id": 2,
+        "codigo": "PCD",
+        "descripcion": "Pendiente Completar Datos"
+      }
+    },
+    "contactos": [
+      {
+        "secContacto": 2353,
+        "nombres": "Martha Vargas",
+        "email": "marthavg.14@gmail.com",
+        "telefono": "999999999",
+        "extension": "",
+        "tipo": "A"
+      },
+      {
+        "secContacto": 2354,
+        "nombres": "Martha Vargas",
+        "email": "martha_vg.14@hotmail.com",
+        "telefono": "999999999",
+        "extension": "",
+        "tipo": "C"
+      }
+    ],
+    "poliza": {
+      "secPoliza": 1629,
+      "idPoliza": 175044,
+      "fecInicioVigencia": "2001-12-26T12:00:00.000Z",
+      "fecFinVigencia": "2002-12-26T12:00:00.000Z",
+      "estadoPoliza": "ACT",
+      "numPoliza": "500837",
+      "codMoneda": "USD",
+      "sumaAsegurada": "217139.03",
+      "codProvicional": "N",
+      "cesionDerechos": "N",
+      "indCoaseguro": "N",
+      "fecAnulacion": null,
+      "idCobertura": 0,
+      "indCobProvisional": "N",
+      "plan": "MARITIMO INTERNACIONAL (A)",
+      "canal": "DIRECTO",
+      "indEndosatario": "",
+      "nombreEndosatario": "",
+      "indVip": "N",
+      "descripcionVip": "",
+      "indFacultativo": "N",
+      "indFronting": "",
+      "indBurningcost": "N",
+      "indCuentaEstado": "N",
+      "secProducto": 1570,
+      "codProducto": "3002",
+      "nomProducto": "TRANSPORTE POR VIAJE",
+      "secCertificado": 1745,
+      "numCertificado": 1,
+      "estadoCertificado": "ACT"
+    }
+  },
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente."
+}

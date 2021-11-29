@@ -1,0 +1,71 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "1",
+      "descripcion": "RIESGO NO CUBIERTO O EXCLUIDO (FACTURAR EPS)",
+      "tooltip": "RIESGO NO CUBIERTO O EXCLUIDO (FACTURAR EPS)"
+    },
+    {
+      "valor": "2",
+      "descripcion": "ENFERMEDAD PRE EXISTENTE",
+      "tooltip": "ENFERMEDAD PRE EXISTENTE"
+    },
+    {
+      "valor": "3",
+      "descripcion": "FALTA DE PAGO DE LA PRIMA",
+      "tooltip": "FALTA DE PAGO DE LA PRIMA"
+    },
+    {
+      "valor": "4",
+      "descripcion": "OCURRIO FUERA DE LA VIGENCIA DEL SEGURO",
+      "tooltip": "OCURRIO FUERA DE LA VIGENCIA DEL SEGURO"
+    },
+    {
+      "valor": "5",
+      "descripcion": "RECLAMOS EXTEMPORANEOS (DENUNCIA, AVISO, BLOQUEO, ETC.)",
+      "tooltip": "RECLAMOS EXTEMPORANEOS (DENUNCIA, AVISO, BLOQUEO, ETC.)"
+    },
+    {
+      "valor": "6",
+      "descripcion": "BENEFICIO CONSUMIDO",
+      "tooltip": "BENEFICIO CONSUMIDO"
+    },
+    {
+      "valor": "7",
+      "descripcion": "DOCUMENTACION FRAUDULENTA",
+      "tooltip": "DOCUMENTACION FRAUDULENTA"
+    },
+    {
+      "valor": "8",
+      "descripcion": "DOCUMENTACION INCOMPLETA O INCORRECTA (FALTA DETALLAR GASTOS, DATOS INCOMPLETOS, ETC.)",
+      "tooltip": "DOCUMENTACION INCOMPLETA O INCORRECTA (FALTA DETALLAR GASTOS, DATOS INCOMPLETOS, ETC.)"
+    },
+    {
+      "valor": "9",
+      "descripcion": "FACTURACION INCORRECTA (MAL CALCULADA, FALTAN DATOS, ETC.)",
+      "tooltip": "FACTURACION INCORRECTA (MAL CALCULADA, FALTAN DATOS, ETC.)"
+    },
+    {
+      "valor": "10",
+      "descripcion": "COPAGOS, DEDUCIBLES O DESCUENTOS MAL APLICADOS",
+      "tooltip": "COPAGOS, DEDUCIBLES O DESCUENTOS MAL APLICADOS"
+    },
+    {
+      "valor": "11",
+      "descripcion": "EXCESOS EN COSTOS O NUMEROS DE SERVICIOS, BIENES O MEDICINAS",
+      "tooltip": "EXCESOS EN COSTOS O NUMEROS DE SERVICIOS, BIENES O MEDICINAS"
+    },
+    {
+      "valor": "12",
+      "descripcion": "BENEFICIOS NO AUTORIZADOS (BIENES O SERVICIOS)",
+      "tooltip": "BENEFICIOS NO AUTORIZADOS (BIENES O SERVICIOS)"
+    },
+    {
+      "valor": "99",
+      "descripcion": "OTROS CASOS",
+      "tooltip": "OTROS CASOS"
+    }
+  ]
+}

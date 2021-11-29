@@ -1,0 +1,26 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "codigo": "000256",
+      "tipo": "BCO",
+      "descr": "BANCO CONTINENTAL"
+    },
+    {
+      "codigo": "000251",
+      "tipo": "BCO",
+      "descr": "BANCO DE CREDITO DEL PERU"
+    },
+    {
+      "codigo": "000252",
+      "tipo": "BCO",
+      "descr": "INTERBANK"
+    },
+    {
+      "codigo": "000255",
+      "tipo": "BCO",
+      "descr": "SCOTIABANK"
+    }
+  ]
+}

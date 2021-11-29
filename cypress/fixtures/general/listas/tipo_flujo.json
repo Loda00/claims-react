@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "PC",
+      "descripcion": "PROCESO COMPLEJO",
+      "tooltip": "PROCESO COMPLEJO"
+    },
+    {
+      "valor": "FS",
+      "descripcion": "FLUJO SIMPLE",
+      "tooltip": "FLUJO SIMPLE"
+    }
+  ]
+}

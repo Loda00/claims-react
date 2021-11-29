@@ -1,0 +1,40 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "estado": "OnTime",
+      "tarea": "REVISAR INFORME",
+      "codTarea": "115",
+      "idTarea": 6,
+      "numSiniestro": "RG19003847",
+      "numPoliza": "500008",
+      "idPoliza": 122890,
+      "estadoPoliza": "ACT",
+      "fecNotificacion": "2019-08-27T00:00:00.000Z",
+      "horNotificacion": "00:00:00",
+      "horaOcurrencia": "00:00:00",
+      "fecOcurrencia": "2001-01-03T00:00:00.000Z",
+      "fecCreacion": "2019-08-29T16:36:15.000Z",
+      "tipoSiniestro": "N",
+      "descripcion": "Descripción del siniestro",
+      "idCaso": 20566,
+      "idTareaBitacora": 1834,
+      "indConfirmarPago": null,
+      "obsTareaBitacora": null,
+      "idSiniestro": 97337,
+      "tomado": 1,
+      "dscRamo": "TRAN",
+      "asegurado": "YKYX GKO  ",
+      "codMoneda": "USD",
+      "montoReserva": "80000.00",
+      "corredor": "UXAWR DZAB WX  "
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 2,
+    "totalPag": 1
+  }
+}

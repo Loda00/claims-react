@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "P",
+      "descripcion": "PAGO PARCIAL",
+      "tooltip": "PAGO PARCIAL"
+    },
+    {
+      "valor": "T",
+      "descripcion": "PAGO TOTAL",
+      "tooltip": "PAGO TOTAL"
+    }
+  ]
+}

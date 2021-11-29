@@ -1,0 +1,114 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó de forma correcta.",
+  "data": [
+    {
+      "idDocumento": 770,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "CORREO SUSTENTO DE ASIGNAR AJUSTADOR",
+      "nomTipo": "CORREO SUSTENTO",
+      "idSubTipoArchivo": 5,
+      "idTipoArchivo": 3,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO%20SUSTENTO%20DE%20ASIGNAR%20AJUSTADOR/hola/download.png",
+          "nombreArchivo": "download.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO SUSTENTO DE ASIGNAR AJUSTADOR/hola/download.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:35:34.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 771,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "POLIZA",
+      "nomTipo": "POLIZA",
+      "idSubTipoArchivo": 9,
+      "idTipoArchivo": 5,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "nombreArchivo": "core.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:35:34.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 772,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "CORREO SUSTENTO DE ASIGNAR AJUSTADOR",
+      "nomTipo": "CORREO SUSTENTO",
+      "idSubTipoArchivo": 5,
+      "idTipoArchivo": 3,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO%20SUSTENTO%20DE%20ASIGNAR%20AJUSTADOR/hola/download.png",
+          "nombreArchivo": "download.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO SUSTENTO DE ASIGNAR AJUSTADOR/hola/download.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:36:17.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 773,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "POLIZA",
+      "nomTipo": "POLIZA",
+      "idSubTipoArchivo": 9,
+      "idTipoArchivo": 5,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "nombreArchivo": "core.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:36:17.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 774,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "CORREO SUSTENTO DE ASIGNAR AJUSTADOR",
+      "nomTipo": "CORREO SUSTENTO",
+      "idSubTipoArchivo": 5,
+      "idTipoArchivo": 3,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO%20SUSTENTO%20DE%20ASIGNAR%20AJUSTADOR/hola/download.png",
+          "nombreArchivo": "download.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/CORREO SUSTENTO DE ASIGNAR AJUSTADOR/hola/download.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:43:08.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 775,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "POLIZA",
+      "nomTipo": "POLIZA",
+      "idSubTipoArchivo": 9,
+      "idTipoArchivo": 5,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "nombreArchivo": "core.png",
+          "ruta": "claims/siniestros/237df9f3a5d05cd451a6515efbaadb0f289f07295eac1a23a5b8f4e8138fa202/POLIZA/hola/core.png",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-21T16:43:08.000Z"
+        }
+      ]
+    }
+  ]
+}

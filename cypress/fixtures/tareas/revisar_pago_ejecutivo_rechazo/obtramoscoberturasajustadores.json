@@ -1,0 +1,57 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "indFacultativo": "N",
+      "indFronting": "",
+      "codigoProducto": "3001",
+      "descripcionProducto": "TRANSPORTE FLOTANTE",
+      "ramos": [
+        {
+          "secRamo": 1281,
+          "codRamo": "TRAN",
+          "coberturas": [
+            {
+              "secCobertura": 1778,
+              "idCobertura": 1085115,
+              "codCobert": "TR01",
+              "descCobertura": "ROBO POR ASALTO",
+              "tipo": "C",
+              "sumaAsegurada": 0,
+              "saldoPendiente": 0,
+              "totalPagosAprobados": 0,
+              "codMoneda": "USD",
+              "codRamo": "TRAN",
+              "codCausa": "021",
+              "dscCausa": "VOLCADURA",
+              "codConsecuencia": "001",
+              "dscConsecuencia": "PERDIDA PARCIAL",
+              "indSinCobertura": "S",
+              "montoReclamado": "62360.74",
+              "montoReserva": "62360.74",
+              "indemnizacion": null,
+              "estado": "R",
+              "codProceso": 19991,
+              "codMotivoRechazo": "0016",
+              "codMotivoRechazoSBS": "8",
+              "dscMotivoRechazo": null,
+              "dscMotivoRechazoSBS": "",
+              "detOtrosCasos": ""
+            }
+          ]
+        }
+      ],
+      "ajustadores": [
+        {
+          "ajustadorEmpresa": "CHARLES & TAYLOR",
+          "ajustadorEncargado": null,
+          "fechaAsignacion": null,
+          "fechaCancelacion": null,
+          "indActual": "S",
+          "emailAjustadorEmpresa": "ccruz@synopsis.ws"
+        }
+      ]
+    }
+  ]
+}

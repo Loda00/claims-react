@@ -1,0 +1,24 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó de forma correcta.",
+  "data": [
+    {
+      "idDocumento": 873,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "POLIZA",
+      "nomTipo": "POLIZA",
+      "idSubTipoArchivo": 9,
+      "idTipoArchivo": 5,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/8119ab8bfd3305d16f5b2f3c7babfbb6c38b2f44054ad7717101ce45656b137b/POLIZA/hola/avatar.jpg",
+          "nombreArchivo": "avatar.jpg",
+          "ruta": "claims/siniestros/8119ab8bfd3305d16f5b2f3c7babfbb6c38b2f44054ad7717101ce45656b137b/POLIZA/hola/avatar.jpg",
+          "usuario": "gmhuanca@synopsis.ws",
+          "fechaCarga": "2019-08-27T10:35:46.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "idInforme": 293,
+      "secAjustador": 4,
+      "codAjustador": "ajd004",
+      "ajustador": "CHARLES & TAYLOR",
+      "emailAjustador": "ccruz@synopsis.ws",
+      "indSolicitaInformeBasico": "N",
+      "indIdiomaEspaniol": "S",
+      "indIdiomaIngles": "N",
+      "numReferenciaAjustador": "123",
+      "ajustadorEncargado": "Jorge",
+      "fechaEnvioRimac": "2019-08-27T00:00:00.000Z",
+      "fechaOcurrencia": "2019-08-27T00:00:00.000Z",
+      "fechaCoordinacion": null,
+      "fechaInspeccion": "1039-08-28T00:00:00.000Z",
+      "lugarInspeccion": "Lugar prueba",
+      "situacionActual": "Situacion actual",
+      "nombreEntrevistado": "Jorge Luis",
+      "notasInforme": "Nota 1",
+      "indInformeFinal": "N",
+      "indDocumentosCompletos": "N",
+      "fechaRecepcionUltimoDoc": "1039-08-28T00:00:00.000Z",
+      "indReqAjustador": "S",
+      "indReqAjustadorAnt": "S",
+      "detalle": ""
+    }
+  ]
+}

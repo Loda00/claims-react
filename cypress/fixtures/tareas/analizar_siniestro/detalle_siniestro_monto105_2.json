@@ -1,0 +1,122 @@
+{
+  "code": "CRG-000",
+  "message": "la operación se ejecutó con éxito",
+  "data": [
+    {
+      "idSiniestroAX": 302403,
+      "idCase": 20089,
+      "tipoFlujo": "C",
+      "canal": "FRS",
+      "dscCanal": "Front de Registro de Siniestros",
+      "codTipoSiniestro": "N",
+      "descripcionTipoSiniestro": "NORMAL",
+      "idSiniestro": 71910,
+      "estadoSiniestro": "Pendiente Analizar Siniestro",
+      "nombresEjecutivo": "MARTIN PAUCARA LARICO",
+      "codProducto": "3001",
+      "descripcionProducto": "TRANSPORTE FLOTANTE",
+      "numPoliza": "500008",
+      "idePoliza": 122890,
+      "numCertificado": 1,
+      "ubicacion": {
+        "continente": "1",
+        "pais": "428",
+        "codDepartamento": "001",
+        "desDepartamento": "AREQUIPA",
+        "codProvincia": "004",
+        "desProvincia": "AREQUIPA",
+        "codDistrito": "029",
+        "desDistrito": "JOSE LUIS BUSTAMANTE Y RIVERO",
+        "direccion": "sdfsdf",
+        "idDireccionRiesgo": "0"
+      },
+      "fechaOcurrencia": "2001-01-04T00:00:00.000Z",
+      "fechaAviso": "2001-01-05T00:00:00.000Z",
+      "bienAfectado": "descripcionSiniestro",
+      "indTercerAfectado": "N",
+      "indBurningCost": "",
+      "indRecupero": "",
+      "indSalvamento": "",
+      "indPrevencionFraude": "",
+      "codReclamoBanco": "",
+      "codReqAjustador": "",
+      "detReqAjustador": "",
+      "transporte": {
+        "idMedioTransporte": 756,
+        "medioTransporte": "01",
+        "dscMedioTransporte": "Vía Aérea",
+        "nombreTransporteOriginal": "TransporteORiginal",
+        "lugarEmbarque": "LugarEmbarque",
+        "fechaEmbarque": "2001-01-04T00:00:00.000Z",
+        "lugarDescargo": "LugarDescarga",
+        "fechaLlegada": "2001-01-05T00:00:00.000Z",
+        "transportesTrasbordo": [
+          {
+            "idTrasbordo": 630,
+            "nombre": "nombreTransbordo",
+            "lugar": "LugarTransporte"
+          }
+        ],
+        "indTrasbordo": "S",
+        "codigoNaturalezaEmbarque": "NAC",
+        "descripcionNaturalezaEmbarque": "NAC",
+        "valorNaturalezaEmbargue": "",
+        "listaIcoterms": [],
+        "empresaTransporte": "",
+        "nombreConductor": "",
+        "placa": "",
+        "tipoMercaderia": "tipoMercaderia",
+        "fechaInspeccion": "2001-01-06T00:00:00.000Z"
+      },
+      "cascoMaritimo": null,
+      "aviacion": null,
+      "ajustador": {
+        "idAjustador": 4,
+        "codAjustador": "ajd004",
+        "idUsuarioBPM": 69,
+        "nomAjustador": "CHARLES & TAYLOR",
+        "nomAjustadorEncarg": ""
+      },
+      "indNotificacionCorredor": "S",
+      "indCerrarSiniestro": "N",
+      "codMotivoCierre": "",
+      "indCargaMasiva": "",
+      "dscObservacion": "",
+      "indReqAjustador": "S",
+      "indReqAjustadorAnt": "S",
+      "codTipoSiniestroAnt": "N",
+      "obsTareaBitacora": "",
+      "indNotifTerceros": "S",
+      "codEstadoSiniestro": "PAS",
+      "indNotifPreventivo": "N",
+      "listaOtrosConceptos": [
+        {
+          "idOtrosConceptos": 166,
+          "idRamo": 1315,
+          "codRamo": "TRAN",
+          "dscRamo": null,
+          "codConcepto": "001",
+          "dscConcepto": "AJUSTADOR",
+          "mtoReserva": "60000.00",
+          "mtoTotalPagos": "0.00",
+          "mtoHonorarioCalculado": "3652.97",
+          "usuarioModificado": "mlpaucara@synopsis.ws",
+          "estado": "R"
+        },
+        {
+          "idOtrosConceptos": 169,
+          "idRamo": 1315,
+          "codRamo": "TRAN",
+          "dscRamo": null,
+          "codConcepto": "000",
+          "dscConcepto": "RESERVAS TECNICAS",
+          "mtoReserva": "562,761.56",
+          "mtoTotalPagos": "0.0000000",
+          "mtoHonorarioCalculado": null,
+          "usuarioModificado": "mlpaucara@synopsis.ws",
+          "estado": "R"
+        }
+      ]
+    }
+  ]
+}

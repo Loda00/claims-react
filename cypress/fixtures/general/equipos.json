@@ -1,0 +1,22 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "idEquipo": 1,
+      "equipo": "Equipo 1"
+    },
+    {
+      "idEquipo": 2,
+      "equipo": "Equipo 2"
+    },
+    {
+      "idEquipo": 3,
+      "equipo": "Equipo 3"
+    },
+    {
+      "idEquipo": 4,
+      "equipo": "Equipo 4"
+    }
+  ]
+}

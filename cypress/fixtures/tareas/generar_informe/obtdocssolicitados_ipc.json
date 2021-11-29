@@ -1,0 +1,79 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó de forma correcta.",
+  "data": [
+    {
+      "idDocumento": 935,
+      "nomDocumento": "hola",
+      "estadoDocumento": 0,
+      "nomSubtipo": "CORREO SUSTENTO DE ASIGNAR AJUSTADOR",
+      "nomTipo": "CORREO SUSTENTO",
+      "idSubTipoArchivo": 5,
+      "idTipoArchivo": 3,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/CORREO%20SUSTENTO%20DE%20ASIGNAR%20AJUSTADOR/hola/avatar.jpg",
+          "nombreArchivo": "avatar.jpg",
+          "ruta": "claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/CORREO SUSTENTO DE ASIGNAR AJUSTADOR/hola/avatar.jpg",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-29T16:44:32.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 936,
+      "nomDocumento": "a",
+      "estadoDocumento": 0,
+      "nomSubtipo": "POLIZA",
+      "nomTipo": "POLIZA",
+      "idSubTipoArchivo": 9,
+      "idTipoArchivo": 5,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/POLIZA/a/avatar.jpg",
+          "nombreArchivo": "avatar.jpg",
+          "ruta": "claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/POLIZA/a/avatar.jpg",
+          "usuario": "mlpaucara@synopsis.w",
+          "fechaCarga": "2019-08-29T16:44:32.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 937,
+      "nomDocumento": "d",
+      "estadoDocumento": 0,
+      "nomSubtipo": "INFORME BASICO ESPAÑOL",
+      "nomTipo": "INFORMES",
+      "idSubTipoArchivo": 2,
+      "idTipoArchivo": 2,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/INFORME%20BASICO%20ESPA%C3%91OL/d/avatar.jpg",
+          "nombreArchivo": "avatar.jpg",
+          "ruta": "claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/INFORME BASICO ESPAÑOL/d/avatar.jpg",
+          "usuario": "faalfaro@synopsis.ws",
+          "fechaCarga": "2019-08-29T16:46:16.000Z"
+        }
+      ]
+    },
+    {
+      "idDocumento": 1000,
+      "nomDocumento": "test",
+      "estadoDocumento": 0,
+      "nomSubtipo": "INFORME PRELIMAR TEST",
+      "nomTipo": "INFORMES",
+      "idSubTipoArchivo": 4,
+      "idTipoArchivo": 2,
+      "archivos": [
+        {
+          "url": "https://ue1stgas3crg001.s3.us-east-2.amazonaws.com/claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/INFORME%20BASICO%20ESPA%C3%91OL/d/avatar.jpg",
+          "nombreArchivo": "avatar.jpg",
+          "ruta": "claims/siniestros/a23c7e9d0686457b4a6d3f14e7d113ef448e1f348146429c440304f79572b4d9/INFORME BASICO ESPAÑOL/d/avatar.jpg",
+          "usuario": "faalfaro@synopsis.ws",
+          "fechaCarga": "2019-08-29T16:46:16.000Z",
+          "idTareaBitacora": 1832
+        }
+      ]
+    }
+  ]
+}

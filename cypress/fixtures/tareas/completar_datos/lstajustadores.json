@@ -1,0 +1,132 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": [
+    {
+      "idAjustador": 1,
+      "codAjustador": "ajd001",
+      "nomAjustador": "A&G AJUSTADORES",
+      "emailAjustador": "agajustadores@aa.com"
+    },
+    {
+      "idAjustador": 2,
+      "codAjustador": "ajd002",
+      "nomAjustador": "RAFAEL ROMERO AJUSTADORES",
+      "emailAjustador": "rafaelromeroajustadores@rra.com"
+    },
+    {
+      "idAjustador": 3,
+      "codAjustador": "ajd003",
+      "nomAjustador": "ABACCO",
+      "emailAjustador": "abacco@aaaa.com"
+    },
+    {
+      "idAjustador": 4,
+      "codAjustador": "ajd004",
+      "nomAjustador": "CHARLES & TAYLOR",
+      "emailAjustador": "celmiracruz@gmail.com"
+    },
+    {
+      "idAjustador": 6,
+      "codAjustador": "ajd006",
+      "nomAjustador": "ACM AJUSTADORES Y PERITOS DE SEGUROS S.A.C",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 7,
+      "codAjustador": "ajd007",
+      "nomAjustador": "BAUKOST PERU",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 8,
+      "codAjustador": "ajd008",
+      "nomAjustador": "CRAWFORD PERU",
+      "emailAjustador": "crawfordperu@cp.com"
+    },
+    {
+      "idAjustador": 9,
+      "codAjustador": "ajd009",
+      "nomAjustador": "E.T.P EDITH TORRES PADILLA",
+      "emailAjustador": "edithtorrespadilla@etp.com"
+    },
+    {
+      "idAjustador": 10,
+      "codAjustador": "ajd010",
+      "nomAjustador": "FGR PERU",
+      "emailAjustador": "fgrperu@fp.com"
+    },
+    {
+      "idAjustador": 12,
+      "codAjustador": "ajd012",
+      "nomAjustador": "HERRERA  D.K.P.",
+      "emailAjustador": "herreradkp@hd.com"
+    },
+    {
+      "idAjustador": 14,
+      "codAjustador": "ajd014",
+      "nomAjustador": "IRIARTE & ASOCIADOS",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 18,
+      "codAjustador": "ajd018",
+      "nomAjustador": "JORGE VALVERDE",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 19,
+      "codAjustador": "ajd019",
+      "nomAjustador": "LA BRITANICA",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 21,
+      "codAjustador": "ajd021",
+      "nomAjustador": "PABLO VIGO",
+      "emailAjustador": "pablovigo@pv.com"
+    },
+    {
+      "idAjustador": 22,
+      "codAjustador": "ajd022",
+      "nomAjustador": "PERU VERITAS",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 23,
+      "codAjustador": "ajd023",
+      "nomAjustador": "PREVENCION Y CONTROL",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 24,
+      "codAjustador": "ajd024",
+      "nomAjustador": "S.O.S SEGURIDAD OPERACIONES  SALVATAJE ",
+      "emailAjustador": "seguridadoperacionessalvataje@sos.com"
+    },
+    {
+      "idAjustador": 25,
+      "codAjustador": "ajd025",
+      "nomAjustador": "SUPERVISIONES & PREVENCIONES S.R.L. AJUSTADORES Y PERITOS DE SEGUROS",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 26,
+      "codAjustador": "ajd026",
+      "nomAjustador": "TEODORO MONTENEGRO",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 27,
+      "codAjustador": "ajd027",
+      "nomAjustador": "TRANSATLANTIC",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 28,
+      "codAjustador": "ajd028",
+      "nomAjustador": "W.MOLLER",
+      "emailAjustador": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "N",
+      "descripcion": "Normal",
+      "tooltip": "Normal"
+    },
+    {
+      "valor": "P",
+      "descripcion": "Preventivo",
+      "tooltip": "Preventivo"
+    }
+  ]
+}

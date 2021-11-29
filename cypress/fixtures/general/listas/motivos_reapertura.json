@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "0002",
+      "descripcion": "ANULACION / CIERRE POR ERROR",
+      "tooltip": "ANULACION / CIERRE POR ERROR"
+    },
+    {
+      "valor": "0001",
+      "descripcion": "DECISION DE CLIENTE",
+      "tooltip": "DECISION DE CLIENTE"
+    }
+  ]
+}

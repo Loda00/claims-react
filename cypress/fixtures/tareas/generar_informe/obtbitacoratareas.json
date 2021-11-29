@@ -1,0 +1,105 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito",
+  "data": [
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "ANALIZAR SINIESTRO",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:42:25.000Z",
+      "fechaFin": "2019-08-29T16:44:37.000Z",
+      "observacion": "",
+      "indConfirmarPago": ""
+    },
+    {
+      "usuario": "faalfaro@synopsis.ws",
+      "tipoActividad": "GENERAR INFORME BÁSICO",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:44:38.000Z",
+      "fechaFin": "2019-08-29T16:46:16.000Z",
+      "observacion": "",
+      "indConfirmarPago": null
+    },
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "REVISAR INFORME BÁSICO",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:46:17.000Z",
+      "fechaFin": "2019-09-01T10:07:55.000Z",
+      "observacion": "",
+      "indConfirmarPago": null
+    },
+    {
+      "usuario": "dberrospi@synopsis.ws",
+      "tipoActividad": "CONFIRMAR GESTIÓN",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:46:59.000Z",
+      "fechaFin": "2019-08-29T16:47:37.000Z",
+      "observacion": "sdfg",
+      "indConfirmarPago": "A"
+    },
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "REVISAR PAGO EJECUTIVO",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:47:38.000Z",
+      "fechaFin": "2019-08-29T16:50:08.000Z",
+      "observacion": "obs para rev pago ajustador",
+      "indConfirmarPago": "A"
+    },
+    {
+      "usuario": "faalfaro@synopsis.ws",
+      "tipoActividad": "REVISAR PAGO AJUSTADOR",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-08-29T16:50:09.000Z",
+      "fechaFin": "2019-09-01T20:27:34.000Z",
+      "observacion": "",
+      "indConfirmarPago": "A"
+    },
+    {
+      "usuario": "faalfaro@synopsis.ws",
+      "tipoActividad": "GENERAR INFORME",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-09-01T10:08:02.000Z",
+      "fechaFin": "2019-09-01T20:55:35.000Z",
+      "observacion": "",
+      "indConfirmarPago": null
+    },
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "REVISAR PAGO EJECUTIVO",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-09-01T20:27:46.000Z",
+      "fechaFin": "2019-09-01T21:05:52.000Z",
+      "observacion": "devuelve al ajustador",
+      "indConfirmarPago": "A"
+    },
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "REVISAR INFORME",
+      "estadoActividad": "En ejecución",
+      "fechaInicio": "2019-09-01T20:55:38.000Z",
+      "fechaFin": null,
+      "observacion": "",
+      "indConfirmarPago": null
+    },
+    {
+      "usuario": "faalfaro@synopsis.ws",
+      "tipoActividad": "REVISAR PAGO AJUSTADOR",
+      "estadoActividad": "Completado",
+      "fechaInicio": "2019-09-01T21:05:53.000Z",
+      "fechaFin": "2019-09-01T21:06:47.000Z",
+      "observacion": "",
+      "indConfirmarPago": "A"
+    },
+    {
+      "usuario": "mlpaucara@synopsis.ws",
+      "tipoActividad": "REVISAR PAGO EJECUTIVO",
+      "estadoActividad": "En ejecución",
+      "fechaInicio": "2019-09-01T21:06:48.000Z",
+      "fechaFin": null,
+      "observacion": null,
+      "indConfirmarPago": "A"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "codRamo": "TRAN",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1085115",
+          "codCobert": "TR01",
+          "dscCobert": "ROBO POR ASALTO",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1085116",
+          "codCobert": "TR02",
+          "dscCobert": "HUELGAS Y CONMOCIÓN CIVIL",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1085117",
+          "codCobert": "TR03",
+          "dscCobert": "TERRORISMO",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1085118",
+          "codCobert": "TR09",
+          "dscCobert": "CLÁUSULA \"A\" TERRESTRE NACIONAL",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1085270",
+          "codCobert": "TR25",
+          "dscCobert": "CLÁUSULA AEREA NACIONAL",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1089084",
+          "codCobert": "TRDC",
+          "dscCobert": "COBERTURA PARA DECLARACIONES",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 62360.74,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    }
+  ]
+}

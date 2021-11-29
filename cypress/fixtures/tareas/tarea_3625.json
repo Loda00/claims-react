@@ -1,0 +1,39 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "estado": "Overdue",
+      "tarea": "ANALIZAR SINIESTRO",
+      "codTarea": "140",
+      "idTarea": 2,
+      "numSiniestro": "RG19003625",
+      "numPoliza": "500008",
+      "idPoliza": 122890,
+      "estadoPoliza": "ACT",
+      "fecNotificacion": "2001-01-05T00:00:00.000Z",
+      "horNotificacion": "00:00:00",
+      "horaOcurrencia": "00:00:00",
+      "fecOcurrencia": "2001-01-04T00:00:00.000Z",
+      "fecCreacion": "2019-08-22T12:16:35.000Z",
+      "tipoSiniestro": "N",
+      "descripcion": "descripcionSiniestro",
+      "idCaso": 20089,
+      "idTareaBitacora": 1357,
+      "obsTareaBitacora": null,
+      "idSiniestro": 71910,
+      "tomado": 1,
+      "dscRamo": "TRAN",
+      "asegurado": "YKYX GKO  ",
+      "codMoneda": "USD",
+      "montoReserva": "120000.00",
+      "corredor": "UXAWR DZAB WX  "
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 1,
+    "totalPag": 1
+  }
+}

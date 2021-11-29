@@ -1,0 +1,141 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "codRamo": "3D02",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461707",
+          "codCobert": "3D02",
+          "dscCobert": "PERDIDA DE DINERO O VALORES EN EL LOCAL",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 5000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    },
+    {
+      "codRamo": "3D03",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461723",
+          "codCobert": "3D03",
+          "dscCobert": "PERDIDA DE DINERO/VALORES FUERA DEL LOCAL",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 5000,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1461724",
+          "codCobert": "3D12",
+          "dscCobert": "DINERO EN PODER DE COBRADORES / VENDEDORES",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 2000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    },
+    {
+      "codRamo": "3D04",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461750",
+          "codCobert": "3D04",
+          "dscCobert": "FALSIFICACION-CHEQUE DE GERENCIA O PAPEL MONEDA",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 10000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    },
+    {
+      "codRamo": "3D05",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461753",
+          "codCobert": "3D05",
+          "dscCobert": "FALSIFICACION DE DOCUMENTOS BANCARIOS",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 10000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    },
+    {
+      "codRamo": "3D06",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461754",
+          "codCobert": "3D06",
+          "dscCobert": "ROBO O ASALTO DE ACTIVOS FIJOS O EXISTENCIAS",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 50000,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1461755",
+          "codCobert": "3D07",
+          "dscCobert": "HURTO DE ACTIVOS FIJOS",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 5000,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "1461756",
+          "codCobert": "3D08",
+          "dscCobert": "BIENES DE EMPLEADOS (SOLO POR ASALTO)",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 5000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    },
+    {
+      "codRamo": "3DDD",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "1461706",
+          "codCobert": "3D01",
+          "dscCobert": "DESHONESTIDAD DEL TRABAJADOR",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 50000,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    }
+  ]
+}

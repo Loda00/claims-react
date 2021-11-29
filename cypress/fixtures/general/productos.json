@@ -1,0 +1,338 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "codProd": "1002",
+      "dscProd": "INCENDIO"
+    },
+    {
+      "codProd": "1050",
+      "dscProd": "LUCRO CESANTE"
+    },
+    {
+      "codProd": "1101",
+      "dscProd": "ROBO"
+    },
+    {
+      "codProd": "1102",
+      "dscProd": "ROBO TARJETA CMR"
+    },
+    {
+      "codProd": "1103",
+      "dscProd": "ROBO TARJETA BBVA"
+    },
+    {
+      "codProd": "1104",
+      "dscProd": "ROBO DE TARJETA HSBC"
+    },
+    {
+      "codProd": "1105",
+      "dscProd": "ROBO TARJETA BANCO FINANCIERO"
+    },
+    {
+      "codProd": "1106",
+      "dscProd": "CITIBANK PROTECCIÓN DE TARJETA DÉBITO"
+    },
+    {
+      "codProd": "1107",
+      "dscProd": "PROTECCIÓN DE TARJETA CITIBANK"
+    },
+    {
+      "codProd": "1108",
+      "dscProd": "PT CUENTA PAGO DE HABERES - CITIBANK"
+    },
+    {
+      "codProd": "1112",
+      "dscProd": "PROTECCION DE TARJETA CREDINKA"
+    },
+    {
+      "codProd": "1113",
+      "dscProd": "PROTECCIÓN TOTAL"
+    },
+    {
+      "codProd": "1115",
+      "dscProd": "DINERS PROTECCION DE TARJETA"
+    },
+    {
+      "codProd": "1201",
+      "dscProd": "RESPONSABILIDAD CIVIL"
+    },
+    {
+      "codProd": "1301",
+      "dscProd": "MULTI RIESGO"
+    },
+    {
+      "codProd": "1302",
+      "dscProd": "PYME"
+    },
+    {
+      "codProd": "1303",
+      "dscProd": "BANCO CONTINENTAL (PRESTATARIOS)"
+    },
+    {
+      "codProd": "1304",
+      "dscProd": "BANCO CONTINENTAL (PRESTATARIOS)"
+    },
+    {
+      "codProd": "1305",
+      "dscProd": "LATINO LEASING"
+    },
+    {
+      "codProd": "1306",
+      "dscProd": "LEASING TOTAL"
+    },
+    {
+      "codProd": "1307",
+      "dscProd": "AMERICA LEASING - PRORENTA"
+    },
+    {
+      "codProd": "1308",
+      "dscProd": "LATINO LEASING CASOS RESUELTOS"
+    },
+    {
+      "codProd": "1309",
+      "dscProd": "FINANCIERA TFC"
+    },
+    {
+      "codProd": "1310",
+      "dscProd": "BANCO WIESE SUDAMERIS S.A.A."
+    },
+    {
+      "codProd": "1311",
+      "dscProd": "STANDARD CHARTERED"
+    },
+    {
+      "codProd": "1312",
+      "dscProd": "BANK BOSTON"
+    },
+    {
+      "codProd": "1313",
+      "dscProd": "BANCO DEL NUEVO MUNDO"
+    },
+    {
+      "codProd": "1314",
+      "dscProd": "BIF"
+    },
+    {
+      "codProd": "1315",
+      "dscProd": "BANCO DEL COMERCIO"
+    },
+    {
+      "codProd": "1316",
+      "dscProd": "CAJA MUNICIPAL DE LIMA"
+    },
+    {
+      "codProd": "1317",
+      "dscProd": "GARANTIA EXTENDIDA"
+    },
+    {
+      "codProd": "1318",
+      "dscProd": "COFIDE"
+    },
+    {
+      "codProd": "1319",
+      "dscProd": "EDPYME"
+    },
+    {
+      "codProd": "1320",
+      "dscProd": "EDPYME RAIZ"
+    },
+    {
+      "codProd": "1321",
+      "dscProd": "FINANCIERA CMR"
+    },
+    {
+      "codProd": "1322",
+      "dscProd": "SIGMA SAFI"
+    },
+    {
+      "codProd": "1323",
+      "dscProd": "TIENDAS EFE"
+    },
+    {
+      "codProd": "1324",
+      "dscProd": "MI CASITA"
+    },
+    {
+      "codProd": "1325",
+      "dscProd": "BBVA DOMICILIARIO CONTENIDO"
+    },
+    {
+      "codProd": "1326",
+      "dscProd": "HSBC"
+    },
+    {
+      "codProd": "1328",
+      "dscProd": "BANCA PEQUEÑA EMPRESA INTERBANK"
+    },
+    {
+      "codProd": "1329",
+      "dscProd": "INCASA"
+    },
+    {
+      "codProd": "1330",
+      "dscProd": "SEGURO HOGAR CARSA"
+    },
+    {
+      "codProd": "1331",
+      "dscProd": "BANCO SANTANDER S.A."
+    },
+    {
+      "codProd": "1333",
+      "dscProd": "AMERICA FINANCIERA - ENDOSOS"
+    },
+    {
+      "codProd": "1336",
+      "dscProd": "CAJA METROPOLITANA DE LIMA - MULTIRIESGO"
+    },
+    {
+      "codProd": "1338",
+      "dscProd": "MULTIRIESGO PYME"
+    },
+    {
+      "codProd": "1339",
+      "dscProd": "CAJA HUANCAYO FEPCMAC - MULTIRIESGO"
+    },
+    {
+      "codProd": "1341",
+      "dscProd": "INCENDIO FINANCIERA EFECTIVA - MULTIRIESGO"
+    },
+    {
+      "codProd": "1342",
+      "dscProd": "PYME HOTELERÍA"
+    },
+    {
+      "codProd": "1346",
+      "dscProd": "PYME RESTAURANTE"
+    },
+    {
+      "codProd": "1355",
+      "dscProd": "BBVA MULTIRIESGO PYME"
+    },
+    {
+      "codProd": "1360",
+      "dscProd": "NEGOCIO ABSOLUTO"
+    },
+    {
+      "codProd": "1401",
+      "dscProd": "DOMICILIARIO"
+    },
+    {
+      "codProd": "1402",
+      "dscProd": "DOMICILIARIO RIMAC (EX CASASEGURA)"
+    },
+    {
+      "codProd": "1403",
+      "dscProd": "BANCO CONTINENTAL (CONTICASA)"
+    },
+    {
+      "codProd": "1408",
+      "dscProd": "DOMICILIARIO SAGA FALABELLA"
+    },
+    {
+      "codProd": "1409",
+      "dscProd": "DOMICILIARIO DISPONIBLE"
+    },
+    {
+      "codProd": "1410",
+      "dscProd": "VIP DOMICILIARIO"
+    },
+    {
+      "codProd": "1501",
+      "dscProd": "DESHONESTIDAD"
+    },
+    {
+      "codProd": "1502",
+      "dscProd": "IATA"
+    },
+    {
+      "codProd": "1505",
+      "dscProd": "3D"
+    },
+    {
+      "codProd": "1601",
+      "dscProd": "SEGURO BANCARIO"
+    },
+    {
+      "codProd": "1701",
+      "dscProd": "DESEMPLEO CARSA"
+    },
+    {
+      "codProd": "1703",
+      "dscProd": "DESEMPLEO FINANCIERA EFECTIVA"
+    },
+    {
+      "codProd": "1996",
+      "dscProd": "SEGUROS ESPECIALES"
+    },
+    {
+      "codProd": "1997",
+      "dscProd": "ANIMALES"
+    },
+    {
+      "codProd": "1998",
+      "dscProd": "EL GUARDIAN"
+    },
+    {
+      "codProd": "1999",
+      "dscProd": "PROSEGAS"
+    },
+    {
+      "codProd": "3001",
+      "dscProd": "TRANSPORTE FLOTANTE"
+    },
+    {
+      "codProd": "3002",
+      "dscProd": "TRANSPORTE POR VIAJE"
+    },
+    {
+      "codProd": "3003",
+      "dscProd": "TRANSPORTE ANUAL"
+    },
+    {
+      "codProd": "3101",
+      "dscProd": "CASCOS"
+    },
+    {
+      "codProd": "3201",
+      "dscProd": "AVIACION"
+    },
+    {
+      "codProd": "3301",
+      "dscProd": "TREC"
+    },
+    {
+      "codProd": "3311",
+      "dscProd": "CAR"
+    },
+    {
+      "codProd": "3321",
+      "dscProd": "desc1"
+    },
+    {
+      "codProd": "3331",
+      "dscProd": "ROTURA DE MAQUINARIA"
+    },
+    {
+      "codProd": "3341",
+      "dscProd": "EQUIPO ELECTRONICO"
+    },
+    {
+      "codProd": "3351",
+      "dscProd": "OBRAS CIVILES TERMINADAS"
+    },
+    {
+      "codProd": "4048",
+      "dscProd": "RENTA HOSPITALARIA - CARSA"
+    },
+    {
+      "codProd": "9028",
+      "dscProd": "ACC.PERSONALES FINANCIERA EFECTIVA"
+    },
+    {
+      "codProd": "9302",
+      "dscProd": "PROTECCIÓN MULTIPLE BBVA"
+    }
+  ]
+}

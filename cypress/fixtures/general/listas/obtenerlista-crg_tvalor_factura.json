@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "USD",
+      "descripcion": "DOLAR AMERICANO",
+      "tooltip": "DOLAR AMERICANO"
+    },
+    {
+      "valor": "SOL",
+      "descripcion": "SOLES",
+      "tooltip": "SOLES"
+    }
+  ]
+}

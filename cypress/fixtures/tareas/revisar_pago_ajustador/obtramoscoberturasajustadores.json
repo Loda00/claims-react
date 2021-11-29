@@ -1,0 +1,57 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "indFacultativo": "N",
+      "indFronting": "",
+      "codigoProducto": "3001",
+      "descripcionProducto": "TRANSPORTE FLOTANTE",
+      "ramos": [
+        {
+          "secRamo": 1546,
+          "codRamo": "TRAN",
+          "coberturas": [
+            {
+              "secCobertura": 2131,
+              "idCobertura": 1085116,
+              "codCobert": "TR02",
+              "descCobertura": "HUELGAS Y CONMOCIÓN CIVIL",
+              "tipo": "C",
+              "sumaAsegurada": "62360.74",
+              "saldoPendiente": 0,
+              "totalPagosAprobados": "5002.00",
+              "codMoneda": "USD",
+              "codRamo": "TRAN",
+              "codCausa": "019",
+              "dscCausa": "VANDALISMO",
+              "codConsecuencia": "005",
+              "dscConsecuencia": "MUERTE",
+              "indSinCobertura": "N",
+              "montoReclamado": "80000.00",
+              "montoReserva": "80000.00",
+              "indemnizacion": "5002.00",
+              "estado": "R",
+              "codProceso": null,
+              "codMotivoRechazo": null,
+              "codMotivoRechazoSBS": null,
+              "dscMotivoRechazo": null,
+              "dscMotivoRechazoSBS": null,
+              "detOtrosCasos": null
+            }
+          ]
+        }
+      ],
+      "ajustadores": [
+        {
+          "ajustadorEmpresa": "CHARLES & TAYLOR",
+          "ajustadorEncargado": "JORGE",
+          "fechaAsignacion": "2019-08-29T16:44:28.000Z",
+          "fechaCancelacion": null,
+          "indActual": "S",
+          "emailAjustadorEmpresa": "ccruz@synopsis.ws"
+        }
+      ]
+    }
+  ]
+}

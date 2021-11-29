@@ -1,0 +1,25 @@
+.subTitle {
+  color: #919194;
+  font-weight: bold;
+}
+
+h3 {
+  color: #919194;
+  font-weight: bold;
+}
+
+.ant-btn {
+  cursor: pointer;
+}
+
+.colorTask {
+  background-color: blue;
+}
+
+.customPanelStyle {
+  background: #e5e7e9;
+  border-radius: '4px';
+  margin-bottom: '5px';
+  border: 0;
+  overflow: hidden;
+}

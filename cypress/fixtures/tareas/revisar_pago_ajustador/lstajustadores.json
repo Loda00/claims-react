@@ -1,0 +1,84 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": [
+    {
+      "idAjustador": 1,
+      "codAjustador": "ajd001",
+      "nomAjustador": "A&G AJUSTADORES",
+      "emailAjustador": "agajustadores@aa.com"
+    },
+    {
+      "idAjustador": 2,
+      "codAjustador": "ajd002",
+      "nomAjustador": "RAFAEL ROMERO AJUSTADORES",
+      "emailAjustador": "rafaelromeroajustadores@rra.com"
+    },
+    {
+      "idAjustador": 4,
+      "codAjustador": "ajd004",
+      "nomAjustador": "CHARLES & TAYLOR",
+      "emailAjustador": "ccruz@synopsis.ws"
+    },
+    {
+      "idAjustador": 5,
+      "codAjustador": "ajd005",
+      "nomAjustador": "AFTER THE STORM",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 7,
+      "codAjustador": "ajd007",
+      "nomAjustador": "BAUKOST PERU",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 8,
+      "codAjustador": "ajd008",
+      "nomAjustador": "CRAWFORD PERU",
+      "emailAjustador": "crawfordperu@cp.com"
+    },
+    {
+      "idAjustador": 10,
+      "codAjustador": "ajd010",
+      "nomAjustador": "FGR PERU",
+      "emailAjustador": "fgrperu@fp.com"
+    },
+    {
+      "idAjustador": 11,
+      "codAjustador": "ajd011",
+      "nomAjustador": "COOPER BROS",
+      "emailAjustador": "cooperbros@cb.com"
+    },
+    {
+      "idAjustador": 13,
+      "codAjustador": "ajd013",
+      "nomAjustador": "MASTER AJUSTADORES",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 14,
+      "codAjustador": "ajd014",
+      "nomAjustador": "IRIARTE & ASOCIADOS",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 17,
+      "codAjustador": "ajd017",
+      "nomAjustador": "GD AJUSTADORES",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 19,
+      "codAjustador": "ajd019",
+      "nomAjustador": "LA BRITANICA",
+      "emailAjustador": null
+    },
+    {
+      "idAjustador": 23,
+      "codAjustador": "ajd023",
+      "nomAjustador": "PREVENCION Y CONTROL",
+      "emailAjustador": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "ideTercero": "22317066",
+      "codExterno": "9217501",
+      "nomCompleto": "MXSHX YKAYSVK ETKAZW",
+      "nombre": "MXSHX",
+      "apePaterno": "YKAYSVK",
+      "apeMaterno": "ETKAZW",
+      "tipoDocumento": "PE2",
+      "dscTipoDocumento": "D.N.I.",
+      "tipoDocId": "2",
+      "numDocumento": "62932479",
+      "medioContacto": [
+        {
+          "idpTipoTelefono": "TEL",
+          "telefono": "5622090"
+        }
+      ],
+      "direccion": [
+        {
+          "pais": "PE",
+          "departamento": "06",
+          "provincia": "000000000190",
+          "tipoVia": "AV",
+          "nombreVia": "NOMBRE DE VIAXXX",
+          "numeroVia": "345YY",
+          "principal": "X"
+        }
+      ]
+    }
+  ]
+}

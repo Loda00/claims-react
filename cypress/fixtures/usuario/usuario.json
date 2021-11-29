@@ -1,0 +1,54 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": [
+    {
+      "apeMaterno": "LARICO",
+      "apePaterno": "PAUCARA",
+      "secTipo": 2,
+      "codTipo": "ES",
+      "email": "mlpaucara@synopsis.ws",
+      "idCore": 56782,
+      "idProceso": 76,
+      "nombres": "MARTIN",
+      "perfil": "IN",
+      "tipo": "EJECUTIVO DE SINIESTRO",
+      "cargo": "Ejecutivo",
+      "idCargoBpm": 7,
+      "emailPadre": null,
+      "roles": [
+        {
+          "secTipo": 2,
+          "codTipo": "ES",
+          "tipo": "EJECUTIVO DE SINIESTRO"
+        }
+      ],
+      "opciones": [
+        {
+          "id": 3,
+          "etiqueta": "Tareas",
+          "numOrden": 2,
+          "url": "/tareas",
+          "iconName": "inbox",
+          "subOpciones": []
+        },
+        {
+          "id": 4,
+          "etiqueta": "Consulta siniestros",
+          "numOrden": 1,
+          "url": "/",
+          "iconName": "audit",
+          "subOpciones": []
+        },
+        {
+          "id": 5,
+          "etiqueta": "Carga masiva",
+          "numOrden": 3,
+          "url": "/carga",
+          "iconName": "massive",
+          "subOpciones": []
+        }
+      ]
+    }
+  ]
+}

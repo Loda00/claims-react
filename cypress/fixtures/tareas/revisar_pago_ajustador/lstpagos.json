@@ -1,0 +1,38 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito.",
+  "data": {
+    "indemnizaciones": [
+      {
+        "id": 256,
+        "idBeneficiario": 106225,
+        "nomBeneficiario": "YKYX GKO  ",
+        "codRamo": "TRAN",
+        "idRamo": 1546,
+        "codCobertura": "TR02",
+        "dscCobertura": "HUELGAS Y CONMOCIÓN CIVIL",
+        "idCobertura": 2131,
+        "codTipoPago": "P",
+        "dscTipoPago": "PAGO PARCIAL",
+        "codMonedaPago": "USD",
+        "mtoIndemnizacionBruta": "5002.00",
+        "mtoDeducible": "0.00",
+        "codTipoCobro": null,
+        "dscTipoCobro": null,
+        "mtoCoaseguro": "0.00",
+        "mtoIndemnizacionNeta": "5002.00",
+        "mtoTasaCambioRegistro": "1.0000000",
+        "idEstado": 5,
+        "codEstado": "PE",
+        "dscEstado": "PENDIENTE",
+        "codProceso": 20567,
+        "usuarioModificacion": "LMBCRG302",
+        "usuarioCreacion": "faalfaro@synopsis.ws",
+        "indCreoAjustador": "S",
+        "indModificoAjustador": "N",
+        "tipoPago": "I"
+      }
+    ],
+    "clave": "indemnizacion"
+  }
+}

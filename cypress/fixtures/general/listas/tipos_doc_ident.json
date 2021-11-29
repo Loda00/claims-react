@@ -1,0 +1,26 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "PE1",
+      "descripcion": "R.U.C.",
+      "tooltip": "R.U.C."
+    },
+    {
+      "valor": "PE2",
+      "descripcion": "D.N.I.",
+      "tooltip": "D.N.I."
+    },
+    {
+      "valor": "PE3",
+      "descripcion": "CARNET DE EXTRANJERIA",
+      "tooltip": "CARNET DE EXTRANJERIA"
+    },
+    {
+      "valor": "PE4",
+      "descripcion": "PASAPORTE",
+      "tooltip": "PASAPORTE"
+    }
+  ]
+}

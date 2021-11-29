@@ -1,0 +1,16 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "A",
+      "descripcion": "CUENTA DE AHORROS",
+      "tooltip": "CUENTA DE AHORROS"
+    },
+    {
+      "valor": "C",
+      "descripcion": "CUENTA CORRIENTE",
+      "tooltip": "CUENTA CORRIENTE"
+    }
+  ]
+}

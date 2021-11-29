@@ -1,0 +1,130 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.claims-rrgg-user-wrapper {
+  padding: 10px;
+}
+.claims-rrgg-user-content {
+  background-color: white;
+  margin: 32px auto;
+  width: 388px;
+  padding: 32px;
+  border: 1px solid #d8dee2;
+}
+
+.claims-rrgg-user-top {
+  text-align: center;
+}
+
+.claims-rrgg-user-top-header {
+  height: 90px;
+  line-height: 90px;
+}
+
+.claims-rrgg-user-top-header a {
+  text-decoration: none;
+}
+
+.claims-rrgg-user-top-logo {
+  vertical-align: top;
+}
+
+.claims-rrgg-user-top-desc {
+  margin-bottom: 40px;
+  color: #333;
+  font-size: 18px;
+}
+
+.claims-rrgg-user-content-desc {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.claims-rrgg-user-login-main .login-form-button,
+.generate-password-button {
+  width: 100%;
+}
+
+.generate-login-container-email .generate-password-button {
+  margin-top: 10px;
+}
+
+.generate-login-container-email .generate-password-input {
+  margin: 10px 0 5px;
+}
+
+.login-form-button {
+  margin-top: 0px;
+}
+
+.login-captcha {
+  margin: 20px auto;
+}
+
+.login-error {
+  color: #e6281e;
+  font-size: 12px;
+}
+
+.login-link {
+  color: #007bff;
+  font-size: 14px;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}
+
+.generate-login-container-final {
+  text-align: center;
+  font-size: 16px;
+}
+
+.generate-password .ant-alert-error {
+  margin: 15px 0;
+}
+
+.confirm-password-form .text {
+  font-size: 14px;
+}
+
+.generate-login-icon {
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+.generate-login-container-final .text {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 576px) {
+  .claims-rrgg-user-content {
+    width: 95%;
+  }
+
+  .generate-login-container-final {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .login-captcha {
+    position: relative;
+    height: 78px;
+    transform: scale(0.9);
+  }
+
+  .login-captcha > div > div {
+    position: absolute;
+    left: -10px;
+  }
+
+  .login-captcha {
+    transform: scale(0.8);
+    transform-origin: 0 0;
+  }
+}

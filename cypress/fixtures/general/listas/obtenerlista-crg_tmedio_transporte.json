@@ -1,0 +1,36 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "01",
+      "descripcion": "Vía Aérea",
+      "tooltip": "Vía Aérea"
+    },
+    {
+      "valor": "02",
+      "descripcion": "Vía Marítima",
+      "tooltip": "Vía Marítima"
+    },
+    {
+      "valor": "03",
+      "descripcion": "Vía Terrestre",
+      "tooltip": "Vía Terrestre"
+    },
+    {
+      "valor": "04",
+      "descripcion": "Fluvial",
+      "tooltip": "Fluvial"
+    },
+    {
+      "valor": "05",
+      "descripcion": "Lacustre",
+      "tooltip": "Lacustre"
+    },
+    {
+      "valor": "06",
+      "descripcion": "Ferroviario",
+      "tooltip": "Ferroviario"
+    }
+  ]
+}

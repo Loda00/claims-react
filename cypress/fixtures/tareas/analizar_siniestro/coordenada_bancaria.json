@@ -1,0 +1,20 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito.",
+  "data": [
+    {
+      "id": "RG19003625",
+      "codTipoPago": "C",
+      "dscTipoPago": "CHEQUE",
+      "codEntidadFinanciera": null,
+      "dscEntidadFinanciera": null,
+      "codTipoCuenta": null,
+      "dscTipoCuenta": null,
+      "codMoneda": null,
+      "nroCuenta": null,
+      "codEstado": "PE",
+      "dscEstado": "PENDIENTE",
+      "usuarioModificacion": "mlpaucara@synopsis.ws"
+    }
+  ]
+}

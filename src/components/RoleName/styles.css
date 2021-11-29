@@ -1,0 +1,15 @@
+label {
+  color: #e6281e;
+  font-weight: bold;
+}
+
+.exit {
+  color: #919191;
+  font-weight: bold;
+}
+
+.rolAndName {
+  margin-top: 7px;
+  margin-right: 0px;
+  padding: 0px;
+}

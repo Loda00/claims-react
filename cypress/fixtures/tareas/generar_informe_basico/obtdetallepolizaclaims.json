@@ -1,0 +1,36 @@
+{
+  "code": "CRG-000",
+  "message": "la operación se ejecutó con éxito",
+  "data": [
+    {
+      "nombreContratante": "TSPAZASXW YASWKT W.X.Y.",
+      "idContratante": 1511646,
+      "secPoliza": 1324,
+      "idePoliza": 139021,
+      "idPoliza": 1324,
+      "numPoliza": "500038",
+      "canal": "CORREDORES",
+      "indCoaseguro": "S",
+      "indFacultativo": "N",
+      "indCuentaEstado": "N",
+      "indNotifReaCoa": "S",
+      "indNotifCorredor": "S",
+      "corredor": {
+        "codCorredor": 847,
+        "nombreCorredor": "WXFX YFN",
+        "ejecutivoCorredor": "",
+        "email": "jlventurasw@gmail.com"
+      },
+      "coaseguros": [
+        {
+          "idCoaseguro": 11,
+          "nomCoaseguro": "PAKGZA4 UYR",
+          "mtoParticipacion": "50.00",
+          "indNotificado": "S",
+          "dscEmail": ""
+        }
+      ],
+      "reaseguros": []
+    }
+  ]
+}

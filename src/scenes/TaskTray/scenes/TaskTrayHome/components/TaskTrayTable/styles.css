@@ -1,0 +1,31 @@
+.colDesc {
+  cursor: pointer;
+}
+
+.typeTask {
+  display: block;
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 0px;
+  cursor: pointer;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight: bold;
+}
+
+.estado {
+  position: absolute;
+  top: 4px;
+  left: 5px;
+  height: 10px;
+  width: 10px;
+  border: 1px solid #0000008a;
+  border-radius: 50%;
+}
+
+.claims-rrgg-table-task {
+  white-space: nowrap;
+}

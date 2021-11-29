@@ -1,0 +1,28 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito",
+  "data": [
+    {
+      "ramo": "TRAN",
+      "codCobertura": "TR01",
+      "codConcepto": null,
+      "cobertura": "ROBO POR ASALTO",
+      "concepto": null,
+      "sumaAsegurada": null,
+      "montoReserva": "62360.74",
+      "fecModificacion": "2019-08-20T00:00:00.000Z",
+      "usuModificacion": "xt2073@rimac.com.pe"
+    },
+    {
+      "ramo": "TRAN",
+      "codCobertura": "TR01",
+      "codConcepto": null,
+      "cobertura": "ROBO POR ASALTO",
+      "concepto": null,
+      "sumaAsegurada": null,
+      "montoReserva": "62360.74",
+      "fecModificacion": "2019-08-21T00:00:00.000Z",
+      "usuModificacion": "mlpaucara@synopsis.ws"
+    }
+  ]
+}

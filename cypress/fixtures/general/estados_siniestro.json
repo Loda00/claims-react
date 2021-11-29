@@ -1,0 +1,106 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "codEstado": "REG",
+      "descEstado": "Registrado"
+    },
+    {
+      "codEstado": "PCD",
+      "descEstado": "Pendiente Completar Datos"
+    },
+    {
+      "codEstado": "DC",
+      "descEstado": "Datos Completados"
+    },
+    {
+      "codEstado": "PCS",
+      "descEstado": "Pendiente Completar Sustento"
+    },
+    {
+      "codEstado": "DSC",
+      "descEstado": "Documento Sustento Completado"
+    },
+    {
+      "codEstado": "PAS",
+      "descEstado": "Pendiente Analizar Siniestro"
+    },
+    {
+      "codEstado": "ASC",
+      "descEstado": "Analizar Siniestro Completado"
+    },
+    {
+      "codEstado": "PGIB",
+      "descEstado": "Pendiente Generar Informe Básico"
+    },
+    {
+      "codEstado": "GIBC",
+      "descEstado": "Generar Informe Básico Completado"
+    },
+    {
+      "codEstado": "PRIB",
+      "descEstado": "Pendiente Revisar Informe Básico"
+    },
+    {
+      "codEstado": "IBA",
+      "descEstado": "Informe Básico Aprobado"
+    },
+    {
+      "codEstado": "IBD",
+      "descEstado": "Informe Básico Devuelto"
+    },
+    {
+      "codEstado": "PGI",
+      "descEstado": "Pendiente Generar Informe"
+    },
+    {
+      "codEstado": "GIC",
+      "descEstado": "Generar Informe Completado"
+    },
+    {
+      "codEstado": "PRI",
+      "descEstado": "Pendiente Revisar Informe"
+    },
+    {
+      "codEstado": "IA",
+      "descEstado": "Informe Aprobado"
+    },
+    {
+      "codEstado": "ID",
+      "descEstado": "Informe Devuelto"
+    },
+    {
+      "codEstado": "OBG",
+      "descEstado": "OB Generada"
+    },
+    {
+      "codEstado": "OPG",
+      "descEstado": "OP Generada"
+    },
+    {
+      "codEstado": "CER",
+      "descEstado": "Cerrado"
+    },
+    {
+      "codEstado": "PAMC",
+      "descEstado": "Pendiente de Actualizar Monto en el Core"
+    },
+    {
+      "codEstado": "MAC",
+      "descEstado": "Monto Actualizado en el Core"
+    },
+    {
+      "codEstado": "PRSC",
+      "descEstado": "Pendiente de Registrar siniestro en el Core"
+    },
+    {
+      "codEstado": "SRC",
+      "descEstado": "Siniestro Registrado en el Core"
+    },
+    {
+      "codEstado": "ANU",
+      "descEstado": "Anulado"
+    }
+  ]
+}

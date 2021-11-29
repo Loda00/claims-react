@@ -1,0 +1,36 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "0007",
+      "descripcion": "CLIENTE NO LLEVÓ SU PRODUCTO AL SERVICIO TÉCNICO",
+      "tooltip": "CLIENTE NO LLEVÓ SU PRODUCTO AL SERVICIO TÉCNICO"
+    },
+    {
+      "valor": "0006\n",
+      "descripcion": "CLIENTE DEJA SIN EFECTO SU RECLAMO",
+      "tooltip": "CLIENTE DEJA SIN EFECTO SU RECLAMO"
+    },
+    {
+      "valor": "0005",
+      "descripcion": "PROBLEMA CON POLIZA MIGRADA",
+      "tooltip": "PROBLEMA CON POLIZA MIGRADA"
+    },
+    {
+      "valor": "0004",
+      "descripcion": "CUBIERTO POR EL DEDUCIBLE",
+      "tooltip": "CUBIERTO POR EL DEDUCIBLE"
+    },
+    {
+      "valor": "0002",
+      "descripcion": "DESESTIMIENTO DEL CLIENTE",
+      "tooltip": "DESESTIMIENTO DEL CLIENTE"
+    },
+    {
+      "valor": "0001",
+      "descripcion": "ERROR DE DECLARACION",
+      "tooltip": "ERROR DE DECLARACION"
+    }
+  ]
+}

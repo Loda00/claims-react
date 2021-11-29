@@ -1,0 +1,22 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó con éxito.",
+  "data": [
+    {
+      "id": "RG19003625",
+      "codTipoPago": "A",
+      "dscTipoPago": "ABONO",
+      "codEntidadFinanciera": "000256",
+      "dscEntidadFinanciera": "BANCO CONTINENTAL",
+      "codTipoCuenta": "A",
+      "dscTipoCuenta": "CUENTA DE AHORROS",
+      "codMoneda": "SOL",
+      "nroCuenta": "213513213213213213",
+      "indAprobado": "S",
+      "dscEstado": "APROBADO",
+      "usuarioModificacion": "mlpaucara@synopsis.ws",
+      "indCreoAjustador": "N",
+      "indModificoAjustador": "N"
+    }
+  ]
+}

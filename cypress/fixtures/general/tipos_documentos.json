@@ -1,0 +1,30 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó de forma correcta.",
+  "data": [
+    {
+      "id": 1,
+      "nombreTipo": "SUSTENTO"
+    },
+    {
+      "id": 2,
+      "nombreTipo": "INFORMES"
+    },
+    {
+      "id": 3,
+      "nombreTipo": "CORREO SUSTENTO"
+    },
+    {
+      "id": 4,
+      "nombreTipo": "LEGAL"
+    },
+    {
+      "id": 5,
+      "nombreTipo": "POLIZA"
+    },
+    {
+      "id": 6,
+      "nombreTipo": "CARGO RECHAZO"
+    }
+  ]
+}

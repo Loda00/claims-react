@@ -1,0 +1,29 @@
+{
+  "code": "CRG-000",
+  "message": "la operación se ejecutó con éxito",
+  "data": [
+    {
+      "nombreAsegurado": "YKYX GKO  ",
+      "codProducto": "3001",
+      "descripcionProducto": "TRANSPORTE FLOTANTE",
+      "numCertificado": 1,
+      "numPlanilla": "3",
+      "numAplicacion": "",
+      "moneda": "SOL",
+      "sumaAsegurada": "135899.31",
+      "fechaInicioVidencia": "2001-01-01T00:00:00.000Z",
+      "fechaFinVigencia": "2005-01-01T00:00:00.000Z",
+      "fechaViaje": "2001-09-30T00:00:00.000Z",
+      "montoPrima": "1656.69",
+      "numId": 106225,
+      "tipoDocumento": "PE1",
+      "dscTipoDocumento": "R.U.C.",
+      "numDocumento": "20469450105",
+      "nombres": "YKYX GKO",
+      "apePaterno": "",
+      "apeMaterno": "",
+      "direccion": "HSAZYYSKV VAK 447",
+      "email": "xxxxxxx@rimac.com.pe"
+    }
+  ]
+}

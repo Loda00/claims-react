@@ -1,0 +1,57 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "indFacultativo": "N",
+      "indFronting": "",
+      "codigoProducto": "1505",
+      "descripcionProducto": "0",
+      "ramos": [
+        {
+          "secRamo": 1424,
+          "codRamo": "3D03",
+          "coberturas": [
+            {
+              "secCobertura": 1976,
+              "idCobertura": 1461723,
+              "codCobert": "3D03",
+              "descCobertura": "PERDIDA DE DINERO/VALORES FUERA DEL LOCAL",
+              "tipo": "C",
+              "sumaAsegurada": "5000.00",
+              "saldoPendiente": 0,
+              "totalPagosAprobados": 0,
+              "codMoneda": "USD",
+              "codRamo": "3D03",
+              "codCausa": "003",
+              "dscCausa": "INTENTO DE ROBO",
+              "codConsecuencia": "001",
+              "dscConsecuencia": "PERDIDA PARCIAL",
+              "indSinCobertura": "N",
+              "montoReclamado": "5000.00",
+              "montoReserva": "5000.00",
+              "indemnizacion": null,
+              "estado": "R",
+              "codProceso": null,
+              "codMotivoRechazo": null,
+              "codMotivoRechazoSBS": null,
+              "dscMotivoRechazo": null,
+              "dscMotivoRechazoSBS": null,
+              "detOtrosCasos": null
+            }
+          ]
+        }
+      ],
+      "ajustadores": [
+        {
+          "ajustadorEmpresa": "CHARLES & TAYLOR",
+          "ajustadorEncargado": null,
+          "fechaAsignacion": "2019-08-27T10:35:42.000Z",
+          "fechaCancelacion": null,
+          "indActual": "S",
+          "emailAjustadorEmpresa": "ccruz@synopsis.ws"
+        }
+      ]
+    }
+  ]
+}

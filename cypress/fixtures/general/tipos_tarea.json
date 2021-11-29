@@ -1,0 +1,74 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": {
+    "tareas": [
+      {
+        "idTarea": 1,
+        "codigo": "51",
+        "descripcion": "COMPLETAR DATOS",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 2,
+        "codigo": "140",
+        "descripcion": "ANALIZAR SINIESTRO",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 3,
+        "codigo": "181",
+        "descripcion": "GENERAR INFORME BÁSICO",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 4,
+        "codigo": "666",
+        "descripcion": "REVISAR INFORME BÁSICO",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 5,
+        "codigo": "667",
+        "descripcion": "GENERAR INFORME",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 6,
+        "codigo": "668",
+        "descripcion": "REVISAR INFORME",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 7,
+        "codigo": "89",
+        "descripcion": "CONFIRMAR GESTIÓN",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 8,
+        "codigo": "79",
+        "descripcion": "REVISAR PAGO EJECUTIVO",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 9,
+        "codigo": "98",
+        "descripcion": "REVISAR PAGO AJUSTADOR",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 10,
+        "codigo": "86",
+        "descripcion": "ADJUNTAR CARGO DE RECHAZO",
+        "tipo": "M"
+      },
+      {
+        "idTarea": 11,
+        "codigo": "00",
+        "descripcion": "GENERACION DE OB",
+        "tipo": "A"
+      }
+    ]
+  }
+}

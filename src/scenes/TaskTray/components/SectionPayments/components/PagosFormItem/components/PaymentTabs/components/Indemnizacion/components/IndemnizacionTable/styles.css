@@ -1,0 +1,78 @@
+.size-column {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  width: 100px;
+}
+
+.size-column-xs {
+  min-width: 120px;
+  width: 120px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-sm {
+  min-width: 160px;
+  width: 160px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-md {
+  min-width: 180px;
+  width: 180px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-lg {
+  min-width: 200px;
+  width: 200px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-xl {
+  min-width: 280px;
+  width: 280px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-state {
+  min-width: 160px;
+  width: 160px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.size-column-action {
+  min-width: 110px;
+  width: 110px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+@media screen and (max-width: 414px) {
+  .size-column-state {
+    min-width: 85px;
+    width: 85px;
+  }
+
+  .size-column-action {
+    min-width: 50px;
+    width: 50px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .size-column-state {
+    min-width: 60px;
+    width: 60px;
+  }
+
+  .size-column-action {
+    min-width: 45px;
+    width: 45px;
+  }
+}

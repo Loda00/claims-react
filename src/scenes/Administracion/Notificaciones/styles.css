@@ -1,0 +1,45 @@
+.notification-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-buttons {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.notifications-button {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.col-subtitles {
+  margin-left: -20px;
+}
+
+.col-conditions {
+  border-radius: 4px;
+  padding-top: 10px;
+  border: 1px solid #d9d9d9;
+}
+
+.span-titles {
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.estate-comment {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 992px) {
+  .notification-center {
+    display: inherit;
+  }
+}

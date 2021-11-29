@@ -1,0 +1,17 @@
+.anticon {
+  cursor: pointer;
+}
+
+.claims-rrgg-asegurado .ant-input {
+  pointer-events: none;
+  color: rgba(0, 0, 0, 0.25);
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+  opacity: 1;
+}
+
+.margin-item-duplicado {
+  background-color: #e3e3e3;
+  border-radius: 3px;
+  /* padding: 10px 0px 0px 10px; */
+}

@@ -1,0 +1,48 @@
+.common {
+  color: rgba(0, 0, 0, 0.85);
+}
+.lados {
+  display: inline-block;
+  height: auto;
+}
+.bloque {
+  border: 1px solid rgb(217, 217, 217);
+  border-radius: 4px;
+}
+.titles {
+  display: block;
+  padding-bottom: 10px;
+}
+.scroll {
+  overflow-y: auto;
+  overflow-x: auto;
+  height: 30vh;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.item {
+  display: block;
+  padding-left: 15px;
+}
+.alineacion {
+  text-align: center;
+}
+.header {
+  overflow: auto;
+}
+.child {
+  position: absolute;
+  height: 80%;
+}
+.parent {
+  height: inherit;
+}
+.DDarea {
+  border: 1px solid #e8e8e8;
+  padding: 15px 0 10px 0;
+  border-radius: 4px;
+}
+.posible {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}

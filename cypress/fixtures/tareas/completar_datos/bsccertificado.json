@@ -1,0 +1,34 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "numCert": 1,
+      "stsCert": "ACT",
+      "dscCert": "MINSUR SOC ANONIMA",
+      "fecIng": "20011226 12:00:00",
+      "codCli": "10079",
+      "dscCli": "YKYX EGG",
+      "codOfiSusc": "100000",
+      "codOfiEmi": "111000",
+      "fecExc": "",
+      "codMotvExc": "",
+      "textMotvExc": "",
+      "fecFin": "20021226 12:00:00",
+      "codMonSumAseg": "USD",
+      "sumAseg": 217139.03,
+      "ideDec": 0,
+      "planilla": "",
+      "aplicacion": "",
+      "prima": 0,
+      "fecViaje": "",
+      "sumAsegDec": 0
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 1,
+    "totalPag": 1
+  }
+}

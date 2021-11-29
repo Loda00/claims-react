@@ -1,0 +1,45 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "codRamo": "TRAN",
+      "indFacultativo": "N",
+      "listCoberturas": [
+        {
+          "ideCobert": "2722334",
+          "codCobert": "TR10",
+          "dscCobert": "CLÁUSULA \"A\" DEL INSTITUTO",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 217139.03,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "2722335",
+          "codCobert": "TR13",
+          "dscCobert": "GUERRA  DEL INSTITUTO",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 217139.03,
+          "codBien": "",
+          "claseBien": ""
+        },
+        {
+          "ideCobert": "2722336",
+          "codCobert": "TR14",
+          "dscCobert": "HUELGAS DEL INSTITUTO",
+          "tipoRes": "C",
+          "codMonCob": "USD",
+          "codCpto": "",
+          "sumAseg": 217139.03,
+          "codBien": "",
+          "claseBien": ""
+        }
+      ]
+    }
+  ]
+}

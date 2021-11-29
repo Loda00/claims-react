@@ -1,0 +1,40 @@
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "estado": "OnTime",
+      "tarea": "COMPLETAR DATOS",
+      "codTarea": "51",
+      "idTarea": 1,
+      "numSiniestro": "RG19004051",
+      "numPoliza": "500837",
+      "idPoliza": 175044,
+      "estadoPoliza": "ACT",
+      "fecNotificacion": "2002-01-01T00:00:00.000Z",
+      "horNotificacion": "00:00:00",
+      "horaOcurrencia": "00:00:00",
+      "fecOcurrencia": "2002-01-01T00:00:00.000Z",
+      "fecCreacion": "2019-09-13T16:23:00.000Z",
+      "tipoSiniestro": "N",
+      "descripcion": "2",
+      "idCaso": 21722,
+      "idTareaBitacora": 2387,
+      "indConfirmarPago": "",
+      "obsTareaBitacora": null,
+      "idSiniestro": null,
+      "tomado": 1,
+      "dscRamo": "TRAN",
+      "asegurado": "YKYX EGG  ",
+      "codMoneda": "USD",
+      "montoReserva": "5774.56",
+      "corredor": "WZFBAKW VPL  "
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 1,
+    "totalPag": 1
+  }
+}

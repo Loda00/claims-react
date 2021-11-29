@@ -1,0 +1,134 @@
+{
+  "code": "CRG-000",
+  "message": "Operación ejecutada con éxito",
+  "data": [
+    {
+      "codCausa": "021",
+      "dscCausa": "VOLCADURA"
+    },
+    {
+      "codCausa": "019",
+      "dscCausa": "VANDALISMO"
+    },
+    {
+      "codCausa": "008",
+      "dscCausa": "RUDO MANIPULEO"
+    },
+    {
+      "codCausa": "030",
+      "dscCausa": "ROBO POR ASALTO"
+    },
+    {
+      "codCausa": "016",
+      "dscCausa": "ROBO CON FRACTURA"
+    },
+    {
+      "codCausa": "009",
+      "dscCausa": "RATERIA"
+    },
+    {
+      "codCausa": "005",
+      "dscCausa": "MERMA"
+    },
+    {
+      "codCausa": "018",
+      "dscCausa": "INUNDACION"
+    },
+    {
+      "codCausa": "028",
+      "dscCausa": "INSPECCION DE EMBARCACIONES"
+    },
+    {
+      "codCausa": "017",
+      "dscCausa": "HURTO"
+    },
+    {
+      "codCausa": "002",
+      "dscCausa": "HURACAN"
+    },
+    {
+      "codCausa": "001",
+      "dscCausa": "HUAICO"
+    },
+    {
+      "codCausa": "025",
+      "dscCausa": "HONORARIOS DE INSPECCION"
+    },
+    {
+      "codCausa": "023",
+      "dscCausa": "HONORARIOS"
+    },
+    {
+      "codCausa": "014",
+      "dscCausa": "FALTANTE A LA ENTREGA"
+    },
+    {
+      "codCausa": "013",
+      "dscCausa": "FALTANTE A LA DESCARGA"
+    },
+    {
+      "codCausa": "026",
+      "dscCausa": "FALTANTE"
+    },
+    {
+      "codCausa": "024",
+      "dscCausa": "DESPISTE"
+    },
+    {
+      "codCausa": "022",
+      "dscCausa": "DESCARRILAMIENTO"
+    },
+    {
+      "codCausa": "032",
+      "dscCausa": "DEMORAS EN LA ENTREGA DE CONTENEDORES"
+    },
+    {
+      "codCausa": "011",
+      "dscCausa": "DAÑOS Y FALTANTES"
+    },
+    {
+      "codCausa": "006",
+      "dscCausa": "DAÑOS POR AVERIA"
+    },
+    {
+      "codCausa": "007",
+      "dscCausa": "DAÑOS POR AGUA DE MAR"
+    },
+    {
+      "codCausa": "033",
+      "dscCausa": "DAÑOS POR AGUA"
+    },
+    {
+      "codCausa": "029",
+      "dscCausa": "DAÑOS AL EMBALAJE"
+    },
+    {
+      "codCausa": "003",
+      "dscCausa": "DAÑO POR LLUVIA"
+    },
+    {
+      "codCausa": "004",
+      "dscCausa": "DAÑO MALICIOSO"
+    },
+    {
+      "codCausa": "020",
+      "dscCausa": "CHOQUE"
+    },
+    {
+      "codCausa": "010",
+      "dscCausa": "AVERIA GRUESA"
+    },
+    {
+      "codCausa": "015",
+      "dscCausa": "ASALTO A MANO ARMADA"
+    },
+    {
+      "codCausa": "012",
+      "dscCausa": "APROPIACION ILICITA"
+    },
+    {
+      "codCausa": "031",
+      "dscCausa": "A.M.T."
+    }
+  ]
+}

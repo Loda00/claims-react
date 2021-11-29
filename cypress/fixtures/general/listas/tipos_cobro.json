@@ -1,0 +1,21 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "1",
+      "descripcion": "VIA PLANILLA",
+      "tooltip": "VIA PLANILLA"
+    },
+    {
+      "valor": "2",
+      "descripcion": "AL CONTADO CON NOTA DE DEBITO",
+      "tooltip": "AL CONTADO CON NOTA DE DEBITO"
+    },
+    {
+      "valor": "3",
+      "descripcion": "AL CONTADO SIN NOTA DE DEBITO",
+      "tooltip": "AL CONTADO SIN NOTA DE DEBITO"
+    }
+  ]
+}

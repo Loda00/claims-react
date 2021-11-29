@@ -1,0 +1,29 @@
+{
+  "code": "CRG-000",
+  "message": "la operación se ejecutó con éxito",
+  "data": [
+    {
+      "nombreAsegurado": "TSPAZASXW YASWKT W.X.Y.  ",
+      "codProducto": "1505",
+      "descripcionProducto": "0",
+      "numCertificado": 1,
+      "numPlanilla": "",
+      "numAplicacion": "",
+      "moneda": "USD",
+      "sumaAsegurada": "105000.00",
+      "fechaInicioVidencia": "20010831 12:00:00",
+      "fechaFinVigencia": "20020831 12:00:00",
+      "fechaViaje": "",
+      "montoPrima": "0.00",
+      "numId": 1511646,
+      "tipoDocumento": "PE1",
+      "dscTipoDocumento": "R.U.C.",
+      "numDocumento": "20364735121",
+      "nombres": "TSPAZASXW YASWKT W.X.Y.",
+      "apePaterno": "",
+      "apeMaterno": "",
+      "direccion": "XN. TKW EXSWXVZW Vº 477  BAP. TX YXUDSÑX 477",
+      "email": "jlventurasw@gmail.com"
+    }
+  ]
+}

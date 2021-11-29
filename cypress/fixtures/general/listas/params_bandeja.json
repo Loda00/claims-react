@@ -1,0 +1,64 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "valor": "DSC_ACR_IND_APRO_S",
+      "descripcion": "APROBADO",
+      "tooltip": "APROBADO"
+    },
+    {
+      "valor": "DSC_ACR_IND_APRO_N",
+      "descripcion": "PENDIENTE",
+      "tooltip": "PENDIENTE"
+    },
+    {
+      "valor": "DSC_COOR_IND_APRO_S",
+      "descripcion": "APROBADO",
+      "tooltip": "APROBADO"
+    },
+    {
+      "valor": "DSC_COOR_IND_APRO_N",
+      "descripcion": "PENDIENTE",
+      "tooltip": "PENDIENTE"
+    },
+    {
+      "valor": "DSC_COOR_IND_TPAGO_C",
+      "descripcion": "CHEQUE"
+    },
+    {
+      "valor": "DSC_COOR_IND_TPAGO_A",
+      "descripcion": "ABONO"
+    },
+    {
+      "valor": "IGV",
+      "descripcion": "0.18",
+      "tooltip": "IGV"
+    },
+    {
+      "valor": "4TA",
+      "descripcion": "0.10",
+      "tooltip": "4TA"
+    },
+    {
+      "valor": "CODPAIS",
+      "descripcion": "428",
+      "tooltip": "CODPAIS"
+    },
+    {
+      "valor": "CODCONTINENTE",
+      "descripcion": "1",
+      "tooltip": "CODCONTINENTE"
+    },
+    {
+      "valor": "PAGOS_DSC_EST_PE",
+      "descripcion": "PENDIENTE",
+      "tooltip": "PENDIENTE"
+    },
+    {
+      "valor": "PAGOS_DSC_EST_EN",
+      "descripcion": "ENVIADO",
+      "tooltip": "ENVIADO"
+    }
+  ]
+}

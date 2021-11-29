@@ -1,0 +1,40 @@
+
+{
+  "code": "CRG-000",
+  "message": "La operación se ejecutó correctamente.",
+  "data": [
+    {
+      "estado": "OnTime",
+      "tarea": "GENERAR INFORME BÁSICO",
+      "codTarea": "181",
+      "idTarea": 3,
+      "numSiniestro": "RG19003748",
+      "numPoliza": "500038",
+      "idPoliza": 139021,
+      "estadoPoliza": "ACT",
+      "fecNotificacion": "2019-08-27T00:00:00.000Z",
+      "horNotificacion": "00:00:00",
+      "horaOcurrencia": "00:00:00",
+      "fecOcurrencia": "2001-08-31T00:00:00.000Z",
+      "fecCreacion": "2019-08-27T10:28:35.000Z",
+      "tipoSiniestro": "N",
+      "descripcion": "bienes",
+      "idCaso": 20395,
+      "idTareaBitacora": 1638,
+      "obsTareaBitacora": null,
+      "idSiniestro": 30958,
+      "tomado": 1,
+      "dscRamo": "3D03",
+      "asegurado": "TSPAZASXW YASWKT W.X.Y.  ",
+      "codMoneda": "USD",
+      "montoReserva": "5000.00",
+      "corredor": "WXFX YFN  "
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 1,
+    "totalPag": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "CRG-000",
+  "message": "OK",
+  "data": [
+    {
+      "idePol": 175044,
+      "numPol": "500837",
+      "codProd": "3002",
+      "dscProd": "TRANSPORTE POR VIAJE",
+      "stsPol": "ACT",
+      "numCert": 1,
+      "stsCert": "ACT",
+      "dscCert": "MINSUR SOC ANONIMA",
+      "fecIniVig": "20011226 12:00:00",
+      "fecFinVig": "20021226 12:00:00",
+      "fecAnul": "",
+      "indProv": "N",
+      "plan": "MARITIMO INTERNACIONAL (A)",
+      "canal": "DIRECTO",
+      "numIdCorr": 43,
+      "nomCorr": "WZFBAKW VPL",
+      "tipoDocIdCr": "7",
+      "numDocIdCr": "101010101010",
+      "numIdContrata": 10079,
+      "nomContrata": "YKYX EGG",
+      "tipoDocIdCt": "1",
+      "numDocIdCt": "20466482570",
+      "numIdAseg": 10079,
+      "nomAseg": "YKYX EGG"
+    }
+  ],
+  "paginacion": {
+    "numPag": 1,
+    "tamPag": 10,
+    "totalItems": 1,
+    "totalPag": 1
+  }
+}
